@@ -8,7 +8,9 @@ Find complement of A/T and C/G
 
 
 def dna_complement(text: str) -> str:
-    """Reverses sequence and returns the complement"""
+    """Return the complement of reversed string"""
+
+    # use dictionary to map complements
 
     dna_dict = {'A': 'T', 'C': 'G', 'T': 'A', 'G': 'C'}
     text = text.upper()[::-1]
