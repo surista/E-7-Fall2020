@@ -11,7 +11,7 @@ import sys
 
 
 def find_url(website):
-    """Return the complement of string text"""
+    """Returns the first URL and link txt on page"""
 
     # read in url text
     with urllib.request.urlopen(website) as f:
