@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9eadba61-eb35-4a23-9f5e-004c0617fee0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="5fca072d-cc0f-4f35-9525-54235c54e3c2" />
+  <component name="ProjectId" id="1iN49zRlGMOOkLAdMBRNuTAiIyA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../My_Coding/Computing in Python III" />
+  </component>
+  <component name="RunManager" selected="Python.probems_day_6">
+    <configuration name="probems_day_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\suris\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/probems_day_6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch_16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.probems_day_6" />
+        <item itemvalue="Python.scratch_16" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9eadba61-eb35-4a23-9f5e-004c0617fee0" name="Default Changelist" comment="" />
+      <created>1601734567913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601734567913</updated>
+      <workItem from="1601734568939" duration="7670000" />
+      <workItem from="1601945310219" duration="2536000" />
+      <workItem from="1601948086194" duration="609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="5054" y="564" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1601947860762">
+      <screen x="3840" y="0" width="3072" height="1688" />
+    </state>
+    <state x="5054" y="564" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1601947860762" />
+    <state x="5104" y="539" key="FileChooserDialogImpl" timestamp="1601948099761">
+      <screen x="3840" y="0" width="3072" height="1688" />
+    </state>
+    <state x="5104" y="539" key="FileChooserDialogImpl/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1601948099761" />
+    <state width="3017" height="472" key="GridCell.Tab.0.bottom" timestamp="1601947867846">
+      <screen x="3840" y="0" width="3072" height="1688" />
+    </state>
+    <state width="3017" height="472" key="GridCell.Tab.0.bottom/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1601947867846" />
+    <state width="3017" height="472" key="GridCell.Tab.0.center" timestamp="1601947867846">
+      <screen x="3840" y="0" width="3072" height="1688" />
+    </state>
+    <state width="3017" height="472" key="GridCell.Tab.0.center/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1601947867846" />
+    <state width="3017" height="472" key="GridCell.Tab.0.left" timestamp="1601947867846">
+      <screen x="3840" y="0" width="3072" height="1688" />
+    </state>
+    <state width="3017" height="472" key="GridCell.Tab.0.left/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1601947867846" />
+    <state width="3017" height="472" key="GridCell.Tab.0.right" timestamp="1601947867846">
+      <screen x="3840" y="0" width="3072" height="1688" />
+    </state>
+    <state width="3017" height="472" key="GridCell.Tab.0.right/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1601947867846" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Day06$probems_day_6.coverage" NAME="probems_day_6 Coverage Results" MODIFIED="1601945561082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
