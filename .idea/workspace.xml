@@ -19,11 +19,21 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9518bc8d-3a12-43af-a646-953b40ab298d" name="Default Changelist" comment="" />
+    <list default="true" id="9518bc8d-3a12-43af-a646-953b40ab298d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Day08/dna_complement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,7 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -59,7 +69,7 @@
       <updated>1603015653304</updated>
       <workItem from="1603015654500" duration="1308000" />
       <workItem from="1603085879985" duration="1220000" />
-      <workItem from="1603104951953" duration="1840000" />
+      <workItem from="1603104951953" duration="2756000" />
     </task>
     <servers />
   </component>
@@ -86,5 +96,9 @@
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
     <state x="5517" y="794" key="FileChooserDialogImpl/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603093815085" />
+    <state x="5198" y="641" width="1963" height="1458" key="SettingsEditor" timestamp="1603109915521">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5198" y="641" width="1963" height="1458" key="SettingsEditor/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603109915521" />
   </component>
 </project>
