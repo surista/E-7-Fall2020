@@ -11,8 +11,7 @@ def dna_complement(text: str) -> str:
     """Reverses sequence and returns the complement"""
 
     dna_dict = {'A': 'T', 'C': 'G', 'T': 'A', 'G': 'C'}
-    text = text.upper()
-    text = text[::-1]
+    text = text.upper()[::-1]
     sol = ''.join([dna_dict[char] for char in text])
 
     return sol

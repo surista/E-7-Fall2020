@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9518bc8d-3a12-43af-a646-953b40ab298d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day08/.ipynb_checkpoints/Homework8FirstDraft-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day08/.ipynb_checkpoints/Homework8FirstDraft-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day08/Homework8FirstDraft.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day08/Homework8FirstDraft.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day08/find_url.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day08/find_url.py" afterDir="false" />
-    </list>
+    <list default="true" id="9518bc8d-3a12-43af-a646-953b40ab298d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +48,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Data Structures" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
@@ -125,6 +120,7 @@
       <workItem from="1603085879985" duration="1220000" />
       <workItem from="1603104951953" duration="5413000" />
       <workItem from="1603116768490" duration="61000" />
+      <workItem from="1603121119385" duration="164000" />
     </task>
     <servers />
   </component>
@@ -151,28 +147,29 @@
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
     <state x="5517" y="794" key="FileChooserDialogImpl/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603116827575" />
-    <state width="3710" height="621" key="GridCell.Tab.0.bottom" timestamp="1603115883698">
+    <state width="3710" height="621" key="GridCell.Tab.0.bottom" timestamp="1603121282605">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="621" key="GridCell.Tab.0.bottom/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603115883698" />
-    <state width="3710" height="621" key="GridCell.Tab.0.center" timestamp="1603115883697">
+    <state width="3710" height="621" key="GridCell.Tab.0.bottom/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603121282605" />
+    <state width="3710" height="621" key="GridCell.Tab.0.center" timestamp="1603121282604">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="621" key="GridCell.Tab.0.center/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603115883697" />
-    <state width="3710" height="621" key="GridCell.Tab.0.left" timestamp="1603115883697">
+    <state width="3710" height="621" key="GridCell.Tab.0.center/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603121282604" />
+    <state width="3710" height="621" key="GridCell.Tab.0.left" timestamp="1603121282604">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="621" key="GridCell.Tab.0.left/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603115883697" />
-    <state width="3710" height="621" key="GridCell.Tab.0.right" timestamp="1603115883698">
+    <state width="3710" height="621" key="GridCell.Tab.0.left/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603121282604" />
+    <state width="3710" height="621" key="GridCell.Tab.0.right" timestamp="1603121282605">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="621" key="GridCell.Tab.0.right/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603115883698" />
+    <state width="3710" height="621" key="GridCell.Tab.0.right/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603121282605" />
     <state x="5198" y="641" width="1963" height="1458" key="SettingsEditor" timestamp="1603109915521">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
     <state x="5198" y="641" width="1963" height="1458" key="SettingsEditor/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603109915521" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$dna_complement.coverage" NAME="dna_complement Coverage Results" MODIFIED="1603121221910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$find_url.coverage" NAME="find_url Coverage Results" MODIFIED="1603115875422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
   </component>
 </project>
