@@ -36,10 +36,21 @@
       </list>
     </option>
   </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="fa62fb22-55d6-4b56-ad36-ee954504d7d1" />
+  <component name="JupyterTrust" id="5fca072d-cc0f-4f35-9525-54235c54e3c2" />
   <component name="ProjectId" id="1j2wmWeofPtRBwVEdP6MbuhJUOK" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -52,7 +63,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Harvard Extension/CSCI E-7" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
@@ -60,7 +71,7 @@
       <recent name="$PROJECT_DIR$/Day06" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dna_complement">
+  <component name="RunManager" selected="Python.odds_n_evens">
     <configuration name="dna_complement" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="E-7-Fall2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,8 +116,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="odds_n_evens" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="E-7-Fall2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day08/odds_n_evens.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.odds_n_evens" />
         <item itemvalue="Python.dna_complement" />
         <item itemvalue="Python.find_url" />
       </list>
@@ -125,7 +159,12 @@
       <workItem from="1603104951953" duration="5413000" />
       <workItem from="1603116768490" duration="61000" />
       <workItem from="1603121119385" duration="164000" />
+<<<<<<< HEAD
       <workItem from="1603121423807" duration="780000" />
+=======
+      <workItem from="1603146161771" duration="1303000" />
+      <workItem from="1603177854987" duration="2605000" />
+>>>>>>> 72b8c143ca28d0fecf403b8cc8890ced0381753f
     </task>
     <servers />
   </component>
@@ -148,10 +187,12 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="5517" y="794" key="FileChooserDialogImpl" timestamp="1603116827575">
-      <screen x="3840" y="0" width="3840" height="2160" />
+    <state x="1342" y="620" key="FileChooserDialogImpl" timestamp="1603146577193">
+      <screen x="0" y="0" width="3072" height="1688" />
     </state>
+    <state x="1342" y="620" key="FileChooserDialogImpl/3840.0.3072.1688/0.0.3072.1688@0.0.3072.1688" timestamp="1603146577193" />
     <state x="5517" y="794" key="FileChooserDialogImpl/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603116827575" />
+<<<<<<< HEAD
     <state width="3710" height="621" key="GridCell.Tab.0.bottom" timestamp="1603143785225">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
@@ -170,11 +211,41 @@
     <state width="3710" height="621" key="GridCell.Tab.0.right/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603143785225" />
     <state x="5198" y="641" width="1963" height="1458" key="SettingsEditor" timestamp="1603109915521">
       <screen x="3840" y="0" width="3840" height="2160" />
+=======
+    <state width="3017" height="472" key="GridCell.Tab.0.bottom" timestamp="1603180190818">
+      <screen x="3840" y="0" width="3072" height="1688" />
     </state>
+    <state width="3017" height="472" key="GridCell.Tab.0.bottom/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1603180190818" />
+    <state width="3710" height="621" key="GridCell.Tab.0.bottom/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603121282605" />
+    <state width="3017" height="472" key="GridCell.Tab.0.center" timestamp="1603180190818">
+      <screen x="3840" y="0" width="3072" height="1688" />
+    </state>
+    <state width="3017" height="472" key="GridCell.Tab.0.center/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1603180190818" />
+    <state width="3710" height="621" key="GridCell.Tab.0.center/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603121282604" />
+    <state width="3017" height="472" key="GridCell.Tab.0.left" timestamp="1603180190817">
+      <screen x="3840" y="0" width="3072" height="1688" />
+    </state>
+    <state width="3017" height="472" key="GridCell.Tab.0.left/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1603180190817" />
+    <state width="3710" height="621" key="GridCell.Tab.0.left/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603121282604" />
+    <state width="3017" height="472" key="GridCell.Tab.0.right" timestamp="1603180190818">
+      <screen x="3840" y="0" width="3072" height="1688" />
+    </state>
+    <state width="3017" height="472" key="GridCell.Tab.0.right/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1603180190818" />
+    <state width="3710" height="621" key="GridCell.Tab.0.right/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603121282605" />
+    <state x="1086" y="501" width="1963" height="1458" key="SettingsEditor" timestamp="1603148030551">
+      <screen x="0" y="0" width="3072" height="1688" />
+>>>>>>> 72b8c143ca28d0fecf403b8cc8890ced0381753f
+    </state>
+    <state x="1086" y="501" key="SettingsEditor/3840.0.3072.1688/0.0.3072.1688@0.0.3072.1688" timestamp="1603148030551" />
     <state x="5198" y="641" width="1963" height="1458" key="SettingsEditor/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603109915521" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/E_7_Fall2020$dna_complement.coverage" NAME="dna_complement Coverage Results" MODIFIED="1603121435691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
+=======
+>>>>>>> 72b8c143ca28d0fecf403b8cc8890ced0381753f
     <SUITE FILE_PATH="coverage/E_7_Fall2020$find_url.coverage" NAME="find_url Coverage Results" MODIFIED="1603115875422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$dna_complement.coverage" NAME="dna_complement Coverage Results" MODIFIED="1603121221910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$odds_n_evens.coverage" NAME="odds_n_evens Coverage Results" MODIFIED="1603180154740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
   </component>
 </project>

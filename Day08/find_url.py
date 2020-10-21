@@ -7,14 +7,13 @@ takes a URL and finds the first link on the page
 """
 
 import urllib.request
-import sys
 
 
-def find_url(website):
+def find_first_link(url):
     """Returns the first URL and link txt on page"""
 
     # read in url text
-    with urllib.request.urlopen(website) as f:
+    with urllib.request.urlopen(url) as f:
         text = f.read().decode('utf-8')
 
     # set up tags for searching, find first link anchor.
@@ -34,5 +33,5 @@ def find_url(website):
     return (first_url, first_text)
 
 
-url = 'https://www.harvard.edu/'
-print(find_url(url))
+url = 'http://en.wikipedia.org/wiki/Python'
+print(find_first_link(url))
