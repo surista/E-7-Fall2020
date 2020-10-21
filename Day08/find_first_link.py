@@ -17,17 +17,17 @@ def find_first_link(url):
         text = f.read().decode('utf-8')
 
     # set up tags for searching, find first link anchor.
-    # 9 refers to length of the <a href=" tag
+    # +2 refers to length of the <a tag
 
-    href_tag = '<a href="'
+    href_tag = '<a'
     first_href = text.find(href_tag)
-    end_href = text.find('"', first_href + 9)
+    end_href = text.find('>', first_href + 1)
 
     link_end = text.find('</a')
     link_start = text.rfind(">", 1,link_end)
 
     # generate string segments
-    first_url = text[first_href + 9:end_href]
+    first_url = text[first_href + 3:end_href]
     first_text = text[link_start+1:link_end].strip()
 
     return (first_url, first_text)
