@@ -13,7 +13,7 @@ class Time(object):
        
     attributes: hour, minute, second
     """
-    def __init__(self, hour=0, minute=0, second=0):
+    def __init__(self, hour: int=0, minute: int=0, second: int=0):
         self.hour = hour
         self.minute = minute
         self.second = second
@@ -70,7 +70,6 @@ class Time(object):
 
 def int_to_time(seconds):
     """Makes a new Time object.
-
     seconds: int seconds since midnight.
     """
     minutes, second = divmod(seconds, 60)
