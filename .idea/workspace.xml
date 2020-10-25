@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1eb1881a-05cc-4d10-ab55-90c5d92d57d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day07/day_8_lecture.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day07/day_8_lecture.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day08/.ipynb_checkpoints/Homework8 (1)-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day08/.ipynb_checkpoints/Homework8 (1)-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day08/Homework8 (1).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day08/Homework8 (1).ipynb" afterDir="false" />
     </list>
@@ -196,7 +195,7 @@
       <workItem from="1603338942536" duration="3585000" />
       <workItem from="1603353279824" duration="1813000" />
       <workItem from="1603612946450" duration="634000" />
-      <workItem from="1603634592155" duration="1675000" />
+      <workItem from="1603634592155" duration="2579000" />
     </task>
     <servers />
   </component>
@@ -220,22 +219,22 @@
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
     <state x="5517" y="794" key="FileChooserDialogImpl/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603355436344" />
-    <state width="3710" height="447" key="GridCell.Tab.0.bottom" timestamp="1603635669313">
+    <state width="3710" height="447" key="GridCell.Tab.0.bottom" timestamp="1603637062916">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="447" key="GridCell.Tab.0.bottom/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603635669313" />
-    <state width="3710" height="447" key="GridCell.Tab.0.center" timestamp="1603635669313">
+    <state width="3710" height="447" key="GridCell.Tab.0.bottom/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603637062916" />
+    <state width="3710" height="447" key="GridCell.Tab.0.center" timestamp="1603637062916">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="447" key="GridCell.Tab.0.center/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603635669313" />
-    <state width="3710" height="447" key="GridCell.Tab.0.left" timestamp="1603635669313">
+    <state width="3710" height="447" key="GridCell.Tab.0.center/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603637062916" />
+    <state width="3710" height="447" key="GridCell.Tab.0.left" timestamp="1603637062916">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="447" key="GridCell.Tab.0.left/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603635669313" />
-    <state width="3710" height="447" key="GridCell.Tab.0.right" timestamp="1603635669313">
+    <state width="3710" height="447" key="GridCell.Tab.0.left/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603637062916" />
+    <state width="3710" height="447" key="GridCell.Tab.0.right" timestamp="1603637062916">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="447" key="GridCell.Tab.0.right/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603635669313" />
+    <state width="3710" height="447" key="GridCell.Tab.0.right/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603637062916" />
     <state x="5375" y="522" key="search.everywhere.popup" timestamp="1603250719126">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
@@ -247,6 +246,8 @@
     <SUITE FILE_PATH="coverage/E_7_Fall2020$day_7_lecture.coverage" NAME="day_7_lecture Coverage Results" MODIFIED="1603353621633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day07" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$find_y.coverage" NAME="find_y Coverage Results" MODIFIED="1603329398854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$find_url.coverage" NAME="find_url Coverage Results" MODIFIED="1603323761403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$find_first_link.coverage" NAME="find_first_link Coverage Results" MODIFIED="1603636887567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$time_after_time.coverage" NAME="time_after_time Coverage Results" MODIFIED="1603637050484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$scratch_22.coverage" NAME="scratch_22 Coverage Results" MODIFIED="1603325542191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$koch_snowflake.coverage" NAME="koch_snowflake Coverage Results" MODIFIED="1603325435860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$day_8_lecture.coverage" NAME="day_8_lecture Coverage Results" MODIFIED="1603635669308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day07" />
