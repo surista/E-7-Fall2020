@@ -12,6 +12,21 @@ Revised by S. Urista
 Oct 2020
 """
 
+# !/usr/bin/env python
+# -*- coding: utf-8 -*-
+"""
+
+Code example from Think Python, by Allen B. Downey.
+Available from http://thinkpython.com
+
+Copyright 2012 Allen B. Downey.
+Distributed under the GNU General Public License at gnu.org/licenses/gpl.html.
+
+Revised by S. Urista
+Oct 2020
+"""
+
+
 class Time(object):
     """Represents the time of day.
 
@@ -24,17 +39,20 @@ class Time(object):
         self.second = second
 
     def __str__(self):
-        # am/pm period by su
-        if (self.hour >= 12):
+        # revised to non-military time, adds AM/PM- S. Urista
+
+        if self.hour >= 24:
+            self.hour %= 24
+
+        if self.hour >= 12:
             period = "PM"
         else:
             period = "AM"
 
-        # revised to non-military time by su
-        new_hour = self.hour % 12
-        if (new_hour == 0):
-            new_hour = 12
-        return '%.1d:%.2d %s' % (new_hour, self.minute, period)  # revised by su
+        if self.hour > 12:
+            self.hour -= 12
+
+        return '%.1d:%.2d %s' % (self.hour, self.minute, period)  # revised by su
 
     def print_time(self):
         print(str(self))
@@ -82,6 +100,9 @@ class Time(object):
             return False
         return True
 
+    def __eq__(self, other):
+        return (self.hour, self.minute, self.second) == (other.hour, other.minute, other.second)
+
 
 def int_to_time(seconds):
     """Makes a new Time object.
@@ -93,32 +114,36 @@ def int_to_time(seconds):
     time = Time(hour, minute, second)
     return time
 
+# Test some of the features of Class Time - jdp
+def main():    # jdp
+    start = Time(0, 1, 1)
+    start.print_time()
 
-n = 00
-print(n%24)
-# if n >= 24:
-#     n = n % 24
-# if n > 12:
-#     n -= 12
-# if n >= 12:
-#     print(n,"PM")
-# else:
-#     print(n,"AM")
+    end = start.increment(1337)
+    end.print_time()
 
-hour = 23
-if hour == 0:
-    hour = 12
+    print('Is end after start?', end=" ")
+    print(end.is_after(start))
 
-if hour > 12:
-    period = "PM"
-else:
-    period = "AM"
+    # Testing __str__
+    print(f'Using __str__: {start} {end}')
 
-if hour > 24:
-    hour %= 24
+    # Testing addition
+    start = Time(9, 45)
+    duration = Time(1, 35)
+    print(start + duration)
+    print(start + 1337)
+    print(1337 + start)
 
-if hour > 12:
-    hour -= 12
+    print('Example of polymorphism')
+    t1 = Time(7, 43)
+    t2 = Time(7, 41)
+    t3 = Time(7, 37)
+    total = sum([t1, t2, t3])
+    print(total)
 
+    # A time that is invalid
+    t1 = Time(50)
+    print(t1)
 
-print(hour, period)
+main()
