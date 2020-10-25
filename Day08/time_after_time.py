@@ -93,3 +93,32 @@ def int_to_time(seconds):
     time = Time(hour, minute, second)
     return time
 
+
+n = 00
+print(n%24)
+# if n >= 24:
+#     n = n % 24
+# if n > 12:
+#     n -= 12
+# if n >= 12:
+#     print(n,"PM")
+# else:
+#     print(n,"AM")
+
+hour = 23
+if hour == 0:
+    hour = 12
+
+if hour > 12:
+    period = "PM"
+else:
+    period = "AM"
+
+if hour > 24:
+    hour %= 24
+
+if hour > 12:
+    hour -= 12
+
+
+print(hour, period)
