@@ -15,7 +15,9 @@ class Point(object):
         self.y = y
 
     def __str__(self):
-        return '(%.d, %.d)' % (self.x, self.y)
+        # return '(%.d, %.d)' % (self.x, self.y)
+        return '({self.x},{self.y})'.format(self = self)
+
 
     def __eq__(self, other):
         return (self.x, self.y) == (other.x, other.y)
