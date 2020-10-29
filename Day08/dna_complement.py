@@ -7,13 +7,13 @@ Find complement of A/T and C/G
 """
 
 
-def dna_complement(text: str) -> str:
+def dna_complement(text):
     """Return the complement of reversed string"""
 
-    # use dictionary to map complements
-
+    # map complements, reverse string
     dna_dict = {'A': 'T', 'C': 'G', 'T': 'A', 'G': 'C'}
     text = text.upper()[::-1]
+
     sol = ''.join([dna_dict[char] for char in text])
 
     return sol

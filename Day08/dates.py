@@ -9,16 +9,19 @@ Description here
 class Date(object):
     "Represents a Calendar date"
 
-    def __init__(self, month=0, day=0, year=0):
+    def __init__(self, day=0, month=0, year=0):
         "Initialize"
-        pass
+        self.day = day
+        self.month = month
+        self.year = year
 
     def __str__(self):
         "Return a printable string representing the date: m/d/y"
-        pass
+        return '%.d/%.d/%.d' % (self.month, self.day, self.year)
 
     def before(self, other):
         "Is this date before that?"
+        return (self.year, self.month, self.day) < (other.year, other.month, other.day)
 
 
 def test_dates():
