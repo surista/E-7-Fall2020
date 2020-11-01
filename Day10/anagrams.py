@@ -33,6 +33,6 @@ def test_anagrams():
 
     return ('Success!')
 
-cProfile.run("test = are_anagrams('abets', 'beats')")
 
+cProfile.run("test = are_anagrams('abets', 'beats')")
 print(test_anagrams())

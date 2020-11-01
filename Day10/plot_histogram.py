@@ -7,25 +7,25 @@ Use matplotlib to draw a histogram of the word lengths
 """
 
 import matplotlib.pyplot as plt
+from collections import Counter
 
 def wordLengths(filepath):
     sol = {}
     try:
         with open(filepath, 'r') as f:
-            raw_list = [word.strip() for word in f]
+            words_list = [word.strip() for word in f]
 
     except FileNotFoundError:
         print(f"Houson, we have a problem, could not find file {filepath}")
 
     # create dictionary for counting
-    for word in raw_list:
+    for word in words_list:
         if len(word) not in sol:
             sol[len(word)] = 1
         else:
             sol[len(word)] += 1
 
-    # return sorted list of tuples
-    return sorted([(x, y) for x, y in sol.items()])
+    return sorted(sol.items())
 
 def plot_histogram(filepath):
     "create a histogram of wordLengths"
@@ -34,5 +34,6 @@ def plot_histogram(filepath):
     plt.show()
 
 filepath = 'words.txt'
+print(wordLengths(filepath))
 plot_histogram(filepath)
 
