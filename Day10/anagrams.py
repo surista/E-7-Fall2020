@@ -5,7 +5,6 @@ S. Urista
 Nov 2020
 find anagrams in list of words
 """
-import cProfile
 def are_anagrams(word1, word2):
     # Are the two words anagrams?
 
@@ -34,5 +33,4 @@ def test_anagrams():
     return ('Success!')
 
 
-cProfile.run("test = are_anagrams('abets', 'beats')")
 print(test_anagrams())

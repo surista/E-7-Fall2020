@@ -7,7 +7,6 @@ Use matplotlib to draw a histogram of the word lengths
 """
 
 import matplotlib.pyplot as plt
-from collections import Counter
 
 def wordLengths(filepath):
     sol = {}

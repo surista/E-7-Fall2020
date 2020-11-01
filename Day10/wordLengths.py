@@ -5,7 +5,6 @@ S. Urista
 Nov 2020
 Creates a list with tuples holding the number of words of each word length
 """
-from collections import Counter
 import cProfile
 def wordLengths(filepath):
     sol = {}
@@ -27,4 +26,4 @@ def wordLengths(filepath):
 
 filepath = 'words.txt'
 print(wordLengths(filepath))
-cProfile.run('test = wordLengths(filepath)')
+# cProfile.run('test = wordLengths(filepath)')

@@ -14,7 +14,7 @@ html_content = requests.get(url).text
 soup = BeautifulSoup(html_content, 'html.parser')
 all_links = [link for link in soup.find_all("a")]
 test = []
-for item in all_links:
-    print(item[0:5])
+for item in range(6):
+    print(all_links[item])
 
 print(test)
