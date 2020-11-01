@@ -20,4 +20,3 @@ if x > 12:
     x -= 12
 
 print(x, period)
-

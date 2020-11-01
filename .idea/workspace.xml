@@ -20,9 +20,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1eb1881a-05cc-4d10-ab55-90c5d92d57d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Day06/HW5Share (2).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day06/Homework5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07/Solution6 (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07/Solution6.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09/.ipynb_checkpoints/HW9Share-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09/.ipynb_checkpoints/Homework8Solutions-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09/HW9Share.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09/Homework8Solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09/Lecture9 (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10/.ipynb_checkpoints/Homework10-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10/Homework10.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10/anagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10/beautiful_Jam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10/plot_histogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10/wordLengths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10/words.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day07/day_8_lecture.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day07/day_8_lecture.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day08/Homework8 (1).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day08/Homework8 (1).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day09/.ipynb_checkpoints/Assignment_9-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day09/.ipynb_checkpoints/Assignment_9-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day09/Assignment_9.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day09/Assignment_9.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day09/point.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day09/point.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +67,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
@@ -62,8 +81,8 @@
       <recent name="$PROJECT_DIR$/Day08" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.point">
-    <configuration name="Phone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.beautiful_Jam">
+    <configuration name="anagrams" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="E-7-Fall2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,12 +90,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day09/Phone.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day10/anagrams.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="collatz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="beautiful_Jam" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="E-7-Fall2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,12 +112,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day09/collatz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day10/beautiful_Jam.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="next_month" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="day_8_lecture" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="E-7-Fall2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,12 +134,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day09/next_month.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day07/day_8_lecture.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="point" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="plot_histogram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="E-7-Fall2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,12 +156,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day09/point.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day10/plot_histogram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,30 +170,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in Phone.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="wordLengths" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="E-7-Fall2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Day09/Phone.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day10/wordLengths.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.point" />
-        <item itemvalue="Python.collatz" />
-        <item itemvalue="Python.next_month" />
-        <item itemvalue="Python tests.pytest in Phone.py" />
-        <item itemvalue="Python.Phone" />
+        <item itemvalue="Python.beautiful_Jam" />
+        <item itemvalue="Python.anagrams" />
+        <item itemvalue="Python.plot_histogram" />
+        <item itemvalue="Python.wordLengths" />
+        <item itemvalue="Python.day_8_lecture" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +217,11 @@
       <workItem from="1603612946450" duration="634000" />
       <workItem from="1603634592155" duration="2629000" />
       <workItem from="1603680505895" duration="3338000" />
-      <workItem from="1603689769021" duration="13458000" />
+      <workItem from="1603689769021" duration="14370000" />
+      <workItem from="1603769119352" duration="1256000" />
+      <workItem from="1604027155111" duration="4099000" />
+      <workItem from="1604102791328" duration="100000" />
+      <workItem from="1604209543851" duration="7676000" />
     </task>
     <servers />
   </component>
@@ -212,47 +240,56 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="5517" y="794" key="FileChooserDialogImpl" timestamp="1603669333536">
+    <state x="5517" y="794" key="FileChooserDialogImpl" timestamp="1604102889347">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state x="5517" y="794" key="FileChooserDialogImpl/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603669333536" />
-    <state width="3710" height="700" key="GridCell.Tab.0.bottom" timestamp="1603704911147">
+    <state x="1677" y="811" key="FileChooserDialogImpl/3840.0.3840.2160/0.27.3840.2133@0.27.3840.2133" timestamp="1603773122257" />
+    <state x="5517" y="794" key="FileChooserDialogImpl/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604102889347" />
+    <state width="3710" height="700" key="GridCell.Tab.0.bottom" timestamp="1604216851149">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="700" key="GridCell.Tab.0.bottom/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603704911147" />
-    <state width="3710" height="700" key="GridCell.Tab.0.center" timestamp="1603704911147">
+    <state width="3710" height="700" key="GridCell.Tab.0.bottom/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604216851149" />
+    <state width="3710" height="700" key="GridCell.Tab.0.center" timestamp="1604216851149">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="700" key="GridCell.Tab.0.center/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603704911147" />
-    <state width="3710" height="700" key="GridCell.Tab.0.left" timestamp="1603704911147">
+    <state width="3710" height="700" key="GridCell.Tab.0.center/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604216851149" />
+    <state width="3710" height="700" key="GridCell.Tab.0.left" timestamp="1604216851149">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="700" key="GridCell.Tab.0.left/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603704911147" />
-    <state width="3710" height="700" key="GridCell.Tab.0.right" timestamp="1603704911147">
+    <state width="3710" height="700" key="GridCell.Tab.0.left/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604216851149" />
+    <state width="3710" height="700" key="GridCell.Tab.0.right" timestamp="1604216851149">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="700" key="GridCell.Tab.0.right/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603704911147" />
-    <state x="5375" y="522" key="search.everywhere.popup" timestamp="1603250719126">
+    <state width="3710" height="700" key="GridCell.Tab.0.right/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604216851149" />
+    <state x="5375" y="522" width="929" height="1034" key="search.everywhere.popup" timestamp="1604214644549">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state x="5375" y="522" key="search.everywhere.popup/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603250719126" />
+    <state x="5375" y="522" width="929" height="1034" key="search.everywhere.popup/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604214644549" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$anagrams.coverage" NAME="anagrams Coverage Results" MODIFIED="1604215293758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1603290822911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$find_y.coverage" NAME="find_y Coverage Results" MODIFIED="1603329398854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$find_url.coverage" NAME="find_url Coverage Results" MODIFIED="1603323761403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$point.coverage" NAME="point Coverage Results" MODIFIED="1603704911139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$scratch_22.coverage" NAME="scratch_22 Coverage Results" MODIFIED="1603325542191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$beautiful_Jam.coverage" NAME="beautiful_Jam Coverage Results" MODIFIED="1604216851143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$scratch_25.coverage" NAME="scratch_25 Coverage Results" MODIFIED="1604102511268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$Koch.coverage" NAME="Koch Coverage Results" MODIFIED="1603325221203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$next_month.coverage" NAME="next_month Coverage Results" MODIFIED="1603703445136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$plot_histogram.coverage" NAME="plot_histogram Coverage Results" MODIFIED="1604213615999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$day_7_lecture.coverage" NAME="day_7_lecture Coverage Results" MODIFIED="1603353621633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day07" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$Phone.coverage" NAME="Phone Coverage Results" MODIFIED="1603703293259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$find_first_link.coverage" NAME="find_first_link Coverage Results" MODIFIED="1603636887567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$time_after_time.coverage" NAME="time_after_time Coverage Results" MODIFIED="1603637050484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$wordLengths.coverage" NAME="wordLengths Coverage Results" MODIFIED="1604211409219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$koch_snowflake.coverage" NAME="koch_snowflake Coverage Results" MODIFIED="1603325435860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$pytest_in_Phone_py.coverage" NAME="pytest in Phone.py Coverage Results" MODIFIED="1603703434750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$collatz.coverage" NAME="collatz Coverage Results" MODIFIED="1603703455881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$day_8_lecture.coverage" NAME="day_8_lecture Coverage Results" MODIFIED="1603635669308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day07" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$day_8_lecture.coverage" NAME="day_8_lecture Coverage Results" MODIFIED="1604102526017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day07" />
   </component>
 </project>
