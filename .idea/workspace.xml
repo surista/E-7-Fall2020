@@ -19,29 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb1881a-05cc-4d10-ab55-90c5d92d57d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day06/HW5Share (2).ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day06/Homework5.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07/Solution6 (1).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07/Solution6.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09/.ipynb_checkpoints/HW9Share-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09/.ipynb_checkpoints/Homework8Solutions-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09/HW9Share.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09/Homework8Solutions.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09/Lecture9 (1).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10/.ipynb_checkpoints/Homework10-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10/Homework10.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10/anagrams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10/beautiful_Jam.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10/plot_histogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10/wordLengths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10/words.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day07/day_8_lecture.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day07/day_8_lecture.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day08/Homework8 (1).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day08/Homework8 (1).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day09/.ipynb_checkpoints/Assignment_9-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day09/.ipynb_checkpoints/Assignment_9-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day09/Assignment_9.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day09/Assignment_9.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="1eb1881a-05cc-4d10-ab55-90c5d92d57d3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +59,7 @@
       <recent name="$PROJECT_DIR$/Day08" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.beautiful_Jam">
+  <component name="RunManager" selected="Python.anagrams">
     <configuration name="anagrams" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="E-7-Fall2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,8 +172,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.beautiful_Jam" />
         <item itemvalue="Python.anagrams" />
+        <item itemvalue="Python.beautiful_Jam" />
         <item itemvalue="Python.plot_histogram" />
         <item itemvalue="Python.wordLengths" />
         <item itemvalue="Python.day_8_lecture" />
@@ -221,7 +199,7 @@
       <workItem from="1603769119352" duration="1256000" />
       <workItem from="1604027155111" duration="4099000" />
       <workItem from="1604102791328" duration="100000" />
-      <workItem from="1604209543851" duration="7676000" />
+      <workItem from="1604209543851" duration="7859000" />
     </task>
     <servers />
   </component>
@@ -249,22 +227,22 @@
     </state>
     <state x="1677" y="811" key="FileChooserDialogImpl/3840.0.3840.2160/0.27.3840.2133@0.27.3840.2133" timestamp="1603773122257" />
     <state x="5517" y="794" key="FileChooserDialogImpl/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604102889347" />
-    <state width="3710" height="700" key="GridCell.Tab.0.bottom" timestamp="1604216851149">
+    <state width="3710" height="700" key="GridCell.Tab.0.bottom" timestamp="1604230667081">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="700" key="GridCell.Tab.0.bottom/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604216851149" />
-    <state width="3710" height="700" key="GridCell.Tab.0.center" timestamp="1604216851149">
+    <state width="3710" height="700" key="GridCell.Tab.0.bottom/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604230667081" />
+    <state width="3710" height="700" key="GridCell.Tab.0.center" timestamp="1604230667081">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="700" key="GridCell.Tab.0.center/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604216851149" />
-    <state width="3710" height="700" key="GridCell.Tab.0.left" timestamp="1604216851149">
+    <state width="3710" height="700" key="GridCell.Tab.0.center/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604230667081" />
+    <state width="3710" height="700" key="GridCell.Tab.0.left" timestamp="1604230667081">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="700" key="GridCell.Tab.0.left/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604216851149" />
-    <state width="3710" height="700" key="GridCell.Tab.0.right" timestamp="1604216851149">
+    <state width="3710" height="700" key="GridCell.Tab.0.left/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604230667081" />
+    <state width="3710" height="700" key="GridCell.Tab.0.right" timestamp="1604230667081">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="700" key="GridCell.Tab.0.right/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604216851149" />
+    <state width="3710" height="700" key="GridCell.Tab.0.right/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604230667081" />
     <state x="5375" y="522" width="929" height="1034" key="search.everywhere.popup" timestamp="1604214644549">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>

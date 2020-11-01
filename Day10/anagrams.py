@@ -10,12 +10,28 @@ find anagrams in list of words
 def are_anagrams(word1, word2):
     # Are the two words anagrams?
 
+    # must be same length
     if len(word1) != len(word2):
         return False
 
+    # can't be the same word
     if word1 == word2:
         return False
 
-    word1, word2 = sorted(word1.lower()), sorted(word2.lower())
+    # sort each string alphabetically and compare
+    return sorted(word1.lower()) == sorted(word2.lower())
 
-    return word1 == word2
+
+def test_anagrams():
+    assert (are_anagrams('abets', 'beats'))
+    assert (are_anagrams('hash', 'shah'))
+    assert (are_anagrams('Hash', 'Shah'))
+
+    assert (not are_anagrams('hash', 'sash'))
+    assert not are_anagrams("zombies", "pants")
+    assert are_anagrams('streams', 'masters')
+    assert are_anagrams('inlets', 'listen')
+
+    return ('Success!')
+
+print(test_anagrams())
