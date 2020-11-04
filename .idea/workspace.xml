@@ -21,6 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1eb1881a-05cc-4d10-ab55-90c5d92d57d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day10/.ipynb_checkpoints/Homework10-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day10/.ipynb_checkpoints/Homework10-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day10/Homework10.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day10/Homework10.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day10/beautiful_Jam.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day10/beautiful_Jam.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +54,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WPEA3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -61,7 +64,7 @@
       <recent name="$PROJECT_DIR$/Day08" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.scratch_27">
+  <component name="RunManager" selected="Python.beautiful_Jam">
     <configuration name="beautiful_Jam" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="E-7-Fall2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,21 +131,26 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for collatz.test_collatz" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="scratch_29" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="E-7-Fall2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day09" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;collatz.test_collatz&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_29.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="pytest in collatz.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
@@ -164,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.beautiful_Jam" />
+        <item itemvalue="Python.scratch_29" />
         <item itemvalue="Python.scratch_27" />
         <item itemvalue="Python.collatz" />
         <item itemvalue="Python tests.pytest in collatz.py" />
-        <item itemvalue="Python tests.pytest for collatz.test_collatz" />
-        <item itemvalue="Python.beautiful_Jam" />
       </list>
     </recent_temporary>
   </component>
@@ -194,6 +202,8 @@
       <workItem from="1604209543851" duration="12974000" />
       <workItem from="1604282043165" duration="5831000" />
       <workItem from="1604323396851" duration="5956000" />
+      <workItem from="1604399418746" duration="1238000" />
+      <workItem from="1604480904499" duration="1920000" />
     </task>
     <servers />
   </component>
@@ -221,22 +231,22 @@
     </state>
     <state x="1677" y="811" key="FileChooserDialogImpl/3840.0.3840.2160/0.27.3840.2133@0.27.3840.2133" timestamp="1603773122257" />
     <state x="5517" y="794" key="FileChooserDialogImpl/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604333466471" />
-    <state width="3710" height="700" key="GridCell.Tab.0.bottom" timestamp="1604333467990">
+    <state width="3710" height="700" key="GridCell.Tab.0.bottom" timestamp="1604482651863">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="700" key="GridCell.Tab.0.bottom/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604333467990" />
-    <state width="3710" height="700" key="GridCell.Tab.0.center" timestamp="1604333467990">
+    <state width="3710" height="700" key="GridCell.Tab.0.bottom/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604482651863" />
+    <state width="3710" height="700" key="GridCell.Tab.0.center" timestamp="1604482651863">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="700" key="GridCell.Tab.0.center/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604333467990" />
-    <state width="3710" height="700" key="GridCell.Tab.0.left" timestamp="1604333467990">
+    <state width="3710" height="700" key="GridCell.Tab.0.center/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604482651863" />
+    <state width="3710" height="700" key="GridCell.Tab.0.left" timestamp="1604482651863">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="700" key="GridCell.Tab.0.left/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604333467990" />
-    <state width="3710" height="700" key="GridCell.Tab.0.right" timestamp="1604333467990">
+    <state width="3710" height="700" key="GridCell.Tab.0.left/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604482651863" />
+    <state width="3710" height="700" key="GridCell.Tab.0.right" timestamp="1604482651863">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="700" key="GridCell.Tab.0.right/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604333467990" />
+    <state width="3710" height="700" key="GridCell.Tab.0.right/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604482651863" />
     <state x="5375" y="522" width="929" height="1034" key="search.everywhere.popup" timestamp="1604214644549">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
@@ -249,9 +259,10 @@
     <SUITE FILE_PATH="coverage/E_7_Fall2020$find_url.coverage" NAME="find_url Coverage Results" MODIFIED="1603323761403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$point.coverage" NAME="point Coverage Results" MODIFIED="1603704911139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$scratch_22.coverage" NAME="scratch_22 Coverage Results" MODIFIED="1603325542191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$beautiful_Jam.coverage" NAME="beautiful_Jam Coverage Results" MODIFIED="1604235758453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$beautiful_Jam.coverage" NAME="beautiful_Jam Coverage Results" MODIFIED="1604482651856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$scratch_25.coverage" NAME="scratch_25 Coverage Results" MODIFIED="1604102511268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$Koch.coverage" NAME="Koch Coverage Results" MODIFIED="1603325221203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$scratch_29.coverage" NAME="scratch_29 Coverage Results" MODIFIED="1604481140270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$next_month.coverage" NAME="next_month Coverage Results" MODIFIED="1603703445136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$plot_histogram.coverage" NAME="plot_histogram Coverage Results" MODIFIED="1604235247413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$day_7_lecture.coverage" NAME="day_7_lecture Coverage Results" MODIFIED="1603353621633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day07" />
