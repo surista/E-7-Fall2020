@@ -9,26 +9,34 @@ SpaceJam page
 import requests
 from bs4 import BeautifulSoup
 
+"prettify print the html of a given url"
+
 url = "https://spacejam.com/"
 html_content = requests.get(url).text
-webpage = requests.get("https://spacejam.com")
 soup = BeautifulSoup(html_content, 'html.parser')
 pretty_soup = soup.prettify()
 
 links = soup.find_all("a")
 
-print(links)
-# all_links = [(link['href'], link.string) for link in soup.find_all("a")]
-# print(all_links, len(all_links))
 
-# all_links = [(link, link.string) for link in soup.find_all("a")]
-# print(all_links, len(all_links))
-#
-# for link i all_links:
-#     if
-#
-#
-# all_links = [link for link in soup.find_all("a")]
-# print(len(all_links))
-# for item in all_links:
-#     print(item)
+# image_url = []
+# for link in links:
+#     alt = link.find('img', alt = True)
+#     if alt:
+#         if link.find('img')['alt'] == "":
+#             print(link)
+#         else:
+#             image_url.append(link.find('img')['alt'])
+
+# print("\nNumber of links with an an img and alt attribute:", len(image_url))
+
+image_url = {}
+for link in links:
+    alt = link.find('img', alt = True)
+    if alt:
+        if link.find('img')['alt'] == "":
+            print(link)
+        else:
+            image_url[link.find('img')['alt']] = link['href']
+
+print(image_url)

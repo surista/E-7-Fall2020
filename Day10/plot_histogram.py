@@ -6,7 +6,9 @@ Nov 2020
 Use matplotlib to draw a histogram of the word lengths
 """
 
+filepath="words.txt"
 import matplotlib.pyplot as plt
+import numpy as np
 
 def wordLengths(filepath):
     sol = {}
@@ -26,13 +28,21 @@ def wordLengths(filepath):
 
     return sorted(sol.items())
 
+
+import matplotlib.pyplot as plt
+
+
+# bar chart showing frequency per word length
+
 def plot_histogram(filepath):
-    "create a histogram of wordLengths"
-    x,y = zip(*wordLengths(filepath))
-    plt.bar(x,y,color='g')
+    "create a bar chart - not histogram - of wordLengths"
+    x, y = zip(*wordLengths(filepath))
+    plt.bar(x, y)
     plt.show()
 
-filepath = 'words.txt'
-print(wordLengths(filepath))
-plot_histogram(filepath)
 
+def plot_histogram_new(filepath):
+    "create a bar chart that looks like a histogram"
+    x, y = zip(*wordLengths(filepath))
+    plt.bar(x, y, width=1, edgecolor='black')
+    plt.show()
