@@ -10,8 +10,11 @@ def collatz(n):
         raise StopIteration
     while n != 1:
         yield n
-        n = n * 3 + 1 if n % 2 else n / 2
+        n = n * 3 + 1 if n % 2 else n // 2
     yield 1
+
+prix = (collatz(20))
+lst = [n for n in prix]
 
 
 def test_collatz():

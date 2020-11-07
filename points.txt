@@ -1,0 +1,9 @@
+../E-7-Fall2020/Day08/Point2.py
+../E-7-Fall2020/Day08/Point1.py
+../E-7-Fall2020/points.txt
+../E-7-Fall2020/Day09/point.py
+../Data Structures/dataStructures/venv/lib/python3.8/site-packages/setuptools-50.3.1.dist-info/entry_points.txt
+../Data Structures/dataStructures/venv/lib/python3.8/site-packages/chardet-3.0.4.dist-info/entry_points.txt
+../Data Structures/dataStructures/venv/lib/python3.8/site-packages/pip/_internal/utils/__pycache__/entrypoints.cpython-38.pyc
+../Data Structures/dataStructures/venv/lib/python3.8/site-packages/pip/_internal/utils/entrypoints.py
+../Data Structures/dataStructures/venv/lib/python3.8/site-packages/pip-20.2.3.dist-info/entry_points.txt
