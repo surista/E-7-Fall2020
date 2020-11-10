@@ -23,12 +23,12 @@ def mile_record(filename):
     y = df2['Record']
 
     sns.scatterplot(x=x, y=y, hue='Event', palette='deep', data=df2)
-
+    plt.axhline(240, color = 'green', ls='--', label = "4-Minute Mile")
+    plt.ylim(0,300)
+    plt.legend(loc='lower left')
     plt.title("Men's and Women's Mile Records")
     plt.xlabel('Year')
     plt.ylabel('Time in seconds')
-    plt.legend(loc='upper left')
-
     plt.show()
 
 filename = "WorldRecords.csv"
