@@ -19,32 +19,28 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb1881a-05cc-4d10-ab55-90c5d92d57d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day10/HW9 Review.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day11/short.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day11/shortest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day11/tst_anagram.py" afterDir="false" />
+    <list default="true" id="7996fc22-12a0-44a4-ae93-10b09ef04aa0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/E-7-Fall2020.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml~995da9d87dd0d3b8cb2523b9cdce88222ea4d85a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day10/Homework10 (4).ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Day11/Homework11.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day11/Homework11.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day11/anagrams_d11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day11/anagrams_d11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day11/tst_anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day11/tst_anagram.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="fa62fb22-55d6-4b56-ad36-ee954504d7d1" />
-  <component name="ProjectId" id="1jAbkWp1N94p3LT27pgNRPuvCvW" />
+  <component name="JupyterTrust" id="5fca072d-cc0f-4f35-9525-54235c54e3c2" />
+  <component name="ProjectId" id="1k84JPa7wDaksTy7NTbintHP6R4" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -53,20 +49,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day11" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day10" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Day11" />
-      <recent name="$PROJECT_DIR$/Day10" />
-      <recent name="$PROJECT_DIR$/Day07" />
-      <recent name="$PROJECT_DIR$/Day08" />
+      <recent name="G:\My Study Courses\E-7-Fall2020\Day10" />
     </key>
   </component>
   <component name="RunManager" selected="Python.tst_anagram">
@@ -114,50 +103,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="global_mile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="E-7-Fall2020" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day11" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day11/global_mile.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sudoku" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="E-7-Fall2020" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day11" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day11/sudoku.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="tst_anagram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="E-7-Fall2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,8 +129,6 @@
       <list>
         <item itemvalue="Python.tst_anagram" />
         <item itemvalue="Python.anagrams_d11" />
-        <item itemvalue="Python.global_mile" />
-        <item itemvalue="Python.sudoku" />
         <item itemvalue="Python.beautiful_Jam" />
       </list>
     </recent_temporary>
@@ -193,35 +136,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1eb1881a-05cc-4d10-ab55-90c5d92d57d3" name="Default Changelist" comment="" />
-      <created>1603249987072</created>
+      <changelist id="7996fc22-12a0-44a4-ae93-10b09ef04aa0" name="Default Changelist" comment="" />
+      <created>1605068812439</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1603249987072</updated>
-      <workItem from="1603249988100" duration="2802000" />
-      <workItem from="1603290609795" duration="9372000" />
-      <workItem from="1603338942536" duration="3585000" />
-      <workItem from="1603353279824" duration="1813000" />
-      <workItem from="1603612946450" duration="634000" />
-      <workItem from="1603634592155" duration="2629000" />
-      <workItem from="1603680505895" duration="3338000" />
-      <workItem from="1603689769021" duration="14370000" />
-      <workItem from="1603769119352" duration="1256000" />
-      <workItem from="1604027155111" duration="4099000" />
-      <workItem from="1604102791328" duration="100000" />
-      <workItem from="1604209543851" duration="12974000" />
-      <workItem from="1604282043165" duration="5831000" />
-      <workItem from="1604323396851" duration="5956000" />
-      <workItem from="1604399418746" duration="1238000" />
-      <workItem from="1604480904499" duration="5892000" />
-      <workItem from="1604560166451" duration="1201000" />
-      <workItem from="1604635930057" duration="4123000" />
-      <workItem from="1604664912341" duration="31624000" />
-      <workItem from="1604813865426" duration="177000" />
-      <workItem from="1604814058150" duration="6831000" />
-      <workItem from="1604837424286" duration="10648000" />
-      <workItem from="1604921899367" duration="613000" />
-      <workItem from="1604983569211" duration="20956000" />
+      <updated>1605068812439</updated>
+      <workItem from="1605068813799" duration="83000" />
+      <workItem from="1605068922689" duration="5649000" />
     </task>
     <servers />
   </component>
@@ -240,73 +161,38 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="5248" y="871" width="1086" height="451" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604989363022">
-      <screen x="3840" y="0" width="3840" height="2160" />
+    <state width="3017" height="472" key="GridCell.Tab.0.bottom" timestamp="1605074800269">
+      <screen x="3840" y="0" width="3072" height="1688" />
     </state>
-    <state x="5248" y="871" width="1086" height="451" key="#com.intellij.fileTypes.FileTypeChooser/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604989363022" />
-    <state x="5517" y="794" key="FileChooserDialogImpl" timestamp="1604989475510">
-      <screen x="3840" y="0" width="3840" height="2160" />
+    <state width="3017" height="472" key="GridCell.Tab.0.bottom/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1605074800269" />
+    <state width="3017" height="472" key="GridCell.Tab.0.center" timestamp="1605074800269">
+      <screen x="3840" y="0" width="3072" height="1688" />
     </state>
-    <state x="1677" y="811" key="FileChooserDialogImpl/3840.0.3840.2160/0.27.3840.2133@0.27.3840.2133" timestamp="1603773122257" />
-    <state x="5517" y="794" key="FileChooserDialogImpl/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604989475510" />
-    <state width="3710" height="811" key="GridCell.Tab.0.bottom" timestamp="1605063503429">
-      <screen x="3840" y="0" width="3840" height="2160" />
+    <state width="3017" height="472" key="GridCell.Tab.0.center/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1605074800269" />
+    <state width="3017" height="472" key="GridCell.Tab.0.left" timestamp="1605074800269">
+      <screen x="3840" y="0" width="3072" height="1688" />
     </state>
-    <state width="3710" height="811" key="GridCell.Tab.0.bottom/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605063503429" />
-    <state width="3710" height="811" key="GridCell.Tab.0.center" timestamp="1605063503429">
-      <screen x="3840" y="0" width="3840" height="2160" />
+    <state width="3017" height="472" key="GridCell.Tab.0.left/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1605074800269" />
+    <state width="3017" height="472" key="GridCell.Tab.0.right" timestamp="1605074800269">
+      <screen x="3840" y="0" width="3072" height="1688" />
     </state>
-    <state width="3710" height="811" key="GridCell.Tab.0.center/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605063503429" />
-    <state width="3710" height="811" key="GridCell.Tab.0.left" timestamp="1605063503429">
-      <screen x="3840" y="0" width="3840" height="2160" />
+    <state width="3017" height="472" key="GridCell.Tab.0.right/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1605074800269" />
+    <state x="4917" y="534" key="MultipleFileMergeDialog" timestamp="1604730013374">
+      <screen x="3840" y="0" width="3072" height="1688" />
     </state>
-    <state width="3710" height="811" key="GridCell.Tab.0.left/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605063503429" />
-    <state width="3710" height="811" key="GridCell.Tab.0.right" timestamp="1605063503429">
-      <screen x="3840" y="0" width="3840" height="2160" />
+    <state x="4917" y="534" key="MultipleFileMergeDialog/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1604730013374" />
+    <state x="4869" y="506" key="Vcs.Push.Dialog.v2" timestamp="1604729982222">
+      <screen x="3840" y="0" width="3072" height="1688" />
     </state>
-    <state width="3710" height="811" key="GridCell.Tab.0.right/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605063503429" />
-    <state x="5198" y="641" width="1196" height="912" key="SettingsEditor" timestamp="1604850429541">
-      <screen x="3840" y="0" width="3840" height="2160" />
-    </state>
-    <state x="5198" y="641" width="1196" height="912" key="SettingsEditor/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604850429541" />
-    <state x="5375" y="522" width="929" height="1034" key="search.everywhere.popup" timestamp="1604738269301">
-      <screen x="3840" y="0" width="3840" height="2160" />
-    </state>
-    <state x="5375" y="522" width="929" height="1034" key="search.everywhere.popup/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604738269301" />
+    <state x="4869" y="506" key="Vcs.Push.Dialog.v2/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1604729982222" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1603290822911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$find_y.coverage" NAME="find_y Coverage Results" MODIFIED="1603329398854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$point.coverage" NAME="point Coverage Results" MODIFIED="1603704911139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$scratch_22.coverage" NAME="scratch_22 Coverage Results" MODIFIED="1603325542191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$sudoku.coverage" NAME="sudoku Coverage Results" MODIFIED="1604816180523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$scratch_25.coverage" NAME="scratch_25 Coverage Results" MODIFIED="1604102511268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$scratch_29.coverage" NAME="scratch_29 Coverage Results" MODIFIED="1604481140270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$plot_histogram.coverage" NAME="plot_histogram Coverage Results" MODIFIED="1604725843247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$day_7_lecture.coverage" NAME="day_7_lecture Coverage Results" MODIFIED="1603353621633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day07" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$pytest_in_collatz_py.coverage" NAME="pytest in collatz.py Coverage Results" MODIFIED="1604298431274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$anagrams_d11.coverage" NAME="anagrams_d11 Coverage Results" MODIFIED="1605062339686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$tst_anagram.coverage" NAME="tst_anagram Coverage Results" MODIFIED="1605063503422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$Phone.coverage" NAME="Phone Coverage Results" MODIFIED="1603703293259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$find_first_link.coverage" NAME="find_first_link Coverage Results" MODIFIED="1603636887567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$time_after_time.coverage" NAME="time_after_time Coverage Results" MODIFIED="1603637050484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$wordLengths.coverage" NAME="wordLengths Coverage Results" MODIFIED="1604235565297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$pytest_in_anagrams_py.coverage" NAME="pytest in anagrams.py Coverage Results" MODIFIED="1604725847977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$global_mile.coverage" NAME="global_mile Coverage Results" MODIFIED="1604871950935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$koch_snowflake.coverage" NAME="koch_snowflake Coverage Results" MODIFIED="1603325435860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$pytest_in_Phone_py.coverage" NAME="pytest in Phone.py Coverage Results" MODIFIED="1603703434750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$day_8_lecture.coverage" NAME="day_8_lecture Coverage Results" MODIFIED="1604102526017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day07" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$pytest_for_collatz_test_collatz.coverage" NAME="pytest for collatz.test_collatz Coverage Results" MODIFIED="1604298417378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$anagrams.coverage" NAME="anagrams Coverage Results" MODIFIED="1604235705315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$find_url.coverage" NAME="find_url Coverage Results" MODIFIED="1603323761403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$beautiful_Jam.coverage" NAME="beautiful_Jam Coverage Results" MODIFIED="1604761795950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$Koch.coverage" NAME="Koch Coverage Results" MODIFIED="1603325221203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$next_month.coverage" NAME="next_month Coverage Results" MODIFIED="1603703445136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$collatz.coverage" NAME="collatz Coverage Results" MODIFIED="1604298627407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$scratch_27.coverage" NAME="scratch_27 Coverage Results" MODIFIED="1604328811561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$find_url.coverage" NAME="find_url Coverage Results" MODIFIED="1603115875422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$tst_anagram.coverage" NAME="tst_anagram Coverage Results" MODIFIED="1605074800265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$dna_complement.coverage" NAME="dna_complement Coverage Results" MODIFIED="1603121221910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$beautiful_Jam.coverage" NAME="beautiful_Jam Coverage Results" MODIFIED="1604764344934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$anagrams_d11.coverage" NAME="anagrams_d11 Coverage Results" MODIFIED="1605069770520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$odds_n_evens.coverage" NAME="odds_n_evens Coverage Results" MODIFIED="1603180154740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
   </component>
 </project>
