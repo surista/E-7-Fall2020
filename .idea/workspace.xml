@@ -20,13 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1eb1881a-05cc-4d10-ab55-90c5d92d57d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day11/anagrams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day11/anagrams_d11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day11/people.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10/HW9 Review.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day11/short.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day11/shortest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day11/tst_anagram.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day11/.ipynb_checkpoints/Homework11-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day11/.ipynb_checkpoints/Homework11-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day11/Homework11.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day11/Homework11.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day11/global_mile.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day11/global_mile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day11/anagrams_d11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day11/anagrams_d11.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,7 @@
       <recent name="$PROJECT_DIR$/Day08" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.anagrams_d11">
+  <component name="RunManager" selected="Python.tst_anagram">
     <configuration name="anagrams_d11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="E-7-Fall2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,30 +158,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in anagrams.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="tst_anagram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="E-7-Fall2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Day10/anagrams.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day11/tst_anagram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tst_anagram" />
         <item itemvalue="Python.anagrams_d11" />
         <item itemvalue="Python.global_mile" />
         <item itemvalue="Python.sudoku" />
         <item itemvalue="Python.beautiful_Jam" />
-        <item itemvalue="Python tests.pytest in anagrams.py" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +221,7 @@
       <workItem from="1604814058150" duration="6831000" />
       <workItem from="1604837424286" duration="10648000" />
       <workItem from="1604921899367" duration="613000" />
-      <workItem from="1604983569211" duration="2784000" />
+      <workItem from="1604983569211" duration="20956000" />
     </task>
     <servers />
   </component>
@@ -248,22 +253,22 @@
     </state>
     <state x="1677" y="811" key="FileChooserDialogImpl/3840.0.3840.2160/0.27.3840.2133@0.27.3840.2133" timestamp="1603773122257" />
     <state x="5517" y="794" key="FileChooserDialogImpl/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604989475510" />
-    <state width="3710" height="854" key="GridCell.Tab.0.bottom" timestamp="1604989530316">
+    <state width="3710" height="811" key="GridCell.Tab.0.bottom" timestamp="1605063503429">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="854" key="GridCell.Tab.0.bottom/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604989530316" />
-    <state width="3710" height="854" key="GridCell.Tab.0.center" timestamp="1604989530315">
+    <state width="3710" height="811" key="GridCell.Tab.0.bottom/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605063503429" />
+    <state width="3710" height="811" key="GridCell.Tab.0.center" timestamp="1605063503429">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="854" key="GridCell.Tab.0.center/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604989530315" />
-    <state width="3710" height="854" key="GridCell.Tab.0.left" timestamp="1604989530315">
+    <state width="3710" height="811" key="GridCell.Tab.0.center/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605063503429" />
+    <state width="3710" height="811" key="GridCell.Tab.0.left" timestamp="1605063503429">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="854" key="GridCell.Tab.0.left/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604989530315" />
-    <state width="3710" height="854" key="GridCell.Tab.0.right" timestamp="1604989530315">
+    <state width="3710" height="811" key="GridCell.Tab.0.left/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605063503429" />
+    <state width="3710" height="811" key="GridCell.Tab.0.right" timestamp="1605063503429">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="854" key="GridCell.Tab.0.right/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1604989530315" />
+    <state width="3710" height="811" key="GridCell.Tab.0.right/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605063503429" />
     <state x="5198" y="641" width="1196" height="912" key="SettingsEditor" timestamp="1604850429541">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
@@ -284,7 +289,8 @@
     <SUITE FILE_PATH="coverage/E_7_Fall2020$plot_histogram.coverage" NAME="plot_histogram Coverage Results" MODIFIED="1604725843247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$day_7_lecture.coverage" NAME="day_7_lecture Coverage Results" MODIFIED="1603353621633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day07" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$pytest_in_collatz_py.coverage" NAME="pytest in collatz.py Coverage Results" MODIFIED="1604298431274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$anagrams_d11.coverage" NAME="anagrams_d11 Coverage Results" MODIFIED="1604989530282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$anagrams_d11.coverage" NAME="anagrams_d11 Coverage Results" MODIFIED="1605062339686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$tst_anagram.coverage" NAME="tst_anagram Coverage Results" MODIFIED="1605063503422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$Phone.coverage" NAME="Phone Coverage Results" MODIFIED="1603703293259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$find_first_link.coverage" NAME="find_first_link Coverage Results" MODIFIED="1603636887567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$time_after_time.coverage" NAME="time_after_time Coverage Results" MODIFIED="1603637050484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />

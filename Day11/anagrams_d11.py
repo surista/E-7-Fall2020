@@ -7,6 +7,7 @@ find anagrams in list of words
 """
 
 from typing import List
+from collections import OrderedDict
 
 def find_anagrams(path: str) -> List:
     """
@@ -16,39 +17,32 @@ def find_anagrams(path: str) -> List:
         with open(path, 'r') as f:
             words_list = [word.strip() for word in f]
 
+        bank = {}
+
+        for word in words_list:
+            reversed_word = (''.join(sorted(word)))
+            try:
+                lst = bank[reversed_word]
+                lst.append(word)
+
+            except KeyError:
+                bank[reversed_word] = [word]
+
+
+
     except FileNotFoundError:
         print(f"Houson, we have a problem, could not find file {filepath}")
 
-    sol = {}
-    count = 0
-    for wrd in range(len(words_list)-2):
-        are_anagrams(words_list[count], words_list[count+1])
+    sol = []
+    for x in bank:
+        word = bank[x]
+        if len(x) > 1:
+            sol.append((len(word), word))
 
-    # must be same length
-    if len(word1) != len(word2):
-        return False
-
-    # can't be the same word
-    if word1 == word2:
-        return False
-
-    # sort each string alphabetically and compare
-    return sorted(word1.lower()) == sorted(word2.lower())
-
-def are_anagrams(word1, word2):
-    # Are the two words anagrams?
-
-    # must be same length
-    if len(word1) != len(word2):
-        return False
-
-    # can't be the same word
-    if word1 == word2:
-        return False
-
-    # sort each string alphabetically and compare
-    return sorted(word1.lower()) == sorted(word2.lower())
+    x = sorted(sol,key=lambda x:(-x[0]))
+    return x[0:10]
 
 
-filename = "shorter.txt"
+filename = "words.txt"
 print(find_anagrams(filename))
+
