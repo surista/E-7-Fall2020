@@ -4,8 +4,6 @@
 S. Urista
 Nov 2020
 Person class; Students and Employees are sub-classes
-#Need to fix - capitalize first letter of name
-fix _str_, fix _eq_
 """
 
 class Person:
