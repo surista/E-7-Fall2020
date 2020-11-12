@@ -19,14 +19,15 @@ def find_anagrams(path: str) -> List:
             words_list = [word.strip() for word in f]
 
         # create list of all words sorted alphabetically
-        sorted_word = [(''.join(sorted(word))) for word in words_list]
+        sorted_words = [(''.join(sorted(word))) for word in words_list]
 
     except FileNotFoundError:
         print(f"Houston, we have a problem, could not find file {path}")
 
     # pair each word to its sorted self
-    pairs = [(sorted_word[x], words_list[x]) for x in range(0, len(words_list))]
+    pairs = [(sorted_words[x], words_list[x]) for x in range(len(words_list))]
 
+    # defaultdict - sidesteps KeyErrors!
     agrams =defaultdict(list)
     for x, y in pairs:
         agrams[x].append(y)
@@ -40,5 +41,6 @@ def find_anagrams(path: str) -> List:
     return sorted(sol, reverse=True)
 
 filename = "words.txt"
-print(find_anagrams(filename))
-
+lst = find_anagrams(filename)
+for anagram in lst[:5]:
+    print(anagram)

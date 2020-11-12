@@ -20,16 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7996fc22-12a0-44a4-ae93-10b09ef04aa0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/E-7-Fall2020.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml~995da9d87dd0d3b8cb2523b9cdce88222ea4d85a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day10/Homework10 (4).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day11/.ipynb_checkpoints/Homework11-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day11/.ipynb_checkpoints/Homework11-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day11/Homework11.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day11/Homework11.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day11/tst_anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day11/tst_anagram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day11/anagram_d11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day11/anagram_d11.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +33,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="5fca072d-cc0f-4f35-9525-54235c54e3c2" />
+  <component name="JupyterTrust" id="fa62fb22-55d6-4b56-ad36-ee954504d7d1" />
   <component name="ProjectId" id="1k84JPa7wDaksTy7NTbintHP6R4" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -51,14 +45,36 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day10" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\My Study Courses\E-7-Fall2020\Day10" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tst_anagram">
+  <component name="RunManager" selected="Python.anagram_d11">
+    <configuration name="anagram_d11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="E-7-Fall2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/pythonProject/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day11" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day11/anagram_d11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="anagrams_d11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="E-7-Fall2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,6 +143,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.anagram_d11" />
         <item itemvalue="Python.tst_anagram" />
         <item itemvalue="Python.anagrams_d11" />
         <item itemvalue="Python.beautiful_Jam" />
@@ -143,6 +160,8 @@
       <updated>1605068812439</updated>
       <workItem from="1605068813799" duration="83000" />
       <workItem from="1605068922689" duration="5649000" />
+      <workItem from="1605104192894" duration="15000" />
+      <workItem from="1605104208948" duration="1406000" />
     </task>
     <servers />
   </component>
@@ -162,22 +181,34 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="3017" height="472" key="GridCell.Tab.0.bottom" timestamp="1605074800269">
-      <screen x="3840" y="0" width="3072" height="1688" />
+    <state x="5549" y="582" width="473" height="1036" key="EnvironmentVariablesDialog" timestamp="1605104241620">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5549" y="582" width="473" height="1036" key="EnvironmentVariablesDialog/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605104241620" />
+    <state x="5512" y="798" key="FileChooserDialogImpl" timestamp="1605104205802">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5512" y="798" key="FileChooserDialogImpl/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605104205802" />
+    <state width="3710" height="621" key="GridCell.Tab.0.bottom" timestamp="1605139966392">
+      <screen x="3840" y="0" width="3840" height="2160" />
     </state>
     <state width="3017" height="472" key="GridCell.Tab.0.bottom/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1605074800269" />
-    <state width="3017" height="472" key="GridCell.Tab.0.center" timestamp="1605074800269">
-      <screen x="3840" y="0" width="3072" height="1688" />
+    <state width="3710" height="621" key="GridCell.Tab.0.bottom/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605139966392" />
+    <state width="3710" height="621" key="GridCell.Tab.0.center" timestamp="1605139966392">
+      <screen x="3840" y="0" width="3840" height="2160" />
     </state>
     <state width="3017" height="472" key="GridCell.Tab.0.center/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1605074800269" />
-    <state width="3017" height="472" key="GridCell.Tab.0.left" timestamp="1605074800269">
-      <screen x="3840" y="0" width="3072" height="1688" />
+    <state width="3710" height="621" key="GridCell.Tab.0.center/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605139966392" />
+    <state width="3710" height="621" key="GridCell.Tab.0.left" timestamp="1605139966392">
+      <screen x="3840" y="0" width="3840" height="2160" />
     </state>
     <state width="3017" height="472" key="GridCell.Tab.0.left/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1605074800269" />
-    <state width="3017" height="472" key="GridCell.Tab.0.right" timestamp="1605074800269">
-      <screen x="3840" y="0" width="3072" height="1688" />
+    <state width="3710" height="621" key="GridCell.Tab.0.left/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605139966392" />
+    <state width="3710" height="621" key="GridCell.Tab.0.right" timestamp="1605139966392">
+      <screen x="3840" y="0" width="3840" height="2160" />
     </state>
     <state width="3017" height="472" key="GridCell.Tab.0.right/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1605074800269" />
+    <state width="3710" height="621" key="GridCell.Tab.0.right/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605139966392" />
     <state x="4917" y="534" key="MultipleFileMergeDialog" timestamp="1604730013374">
       <screen x="3840" y="0" width="3072" height="1688" />
     </state>
@@ -188,11 +219,37 @@
     <state x="4869" y="506" key="Vcs.Push.Dialog.v2/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1604729982222" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$find_url.coverage" NAME="find_url Coverage Results" MODIFIED="1603115875422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$tst_anagram.coverage" NAME="tst_anagram Coverage Results" MODIFIED="1605074800265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$dna_complement.coverage" NAME="dna_complement Coverage Results" MODIFIED="1603121221910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$beautiful_Jam.coverage" NAME="beautiful_Jam Coverage Results" MODIFIED="1604764344934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$anagrams_d11.coverage" NAME="anagrams_d11 Coverage Results" MODIFIED="1605069770520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1603290822911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$odds_n_evens.coverage" NAME="odds_n_evens Coverage Results" MODIFIED="1603180154740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$find_y.coverage" NAME="find_y Coverage Results" MODIFIED="1603329398854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$point.coverage" NAME="point Coverage Results" MODIFIED="1603704911139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$anagram_d11.coverage" NAME="anagram_d11 Coverage Results" MODIFIED="1605139966384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$scratch_22.coverage" NAME="scratch_22 Coverage Results" MODIFIED="1603325542191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$sudoku.coverage" NAME="sudoku Coverage Results" MODIFIED="1604816180523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$scratch_25.coverage" NAME="scratch_25 Coverage Results" MODIFIED="1604102511268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$scratch_29.coverage" NAME="scratch_29 Coverage Results" MODIFIED="1604481140270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$plot_histogram.coverage" NAME="plot_histogram Coverage Results" MODIFIED="1604725843247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$day_7_lecture.coverage" NAME="day_7_lecture Coverage Results" MODIFIED="1603353621633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day07" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$pytest_in_collatz_py.coverage" NAME="pytest in collatz.py Coverage Results" MODIFIED="1604298431274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$dna_complement.coverage" NAME="dna_complement Coverage Results" MODIFIED="1603121221910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$anagrams_d11.coverage" NAME="anagrams_d11 Coverage Results" MODIFIED="1605062339686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$tst_anagram.coverage" NAME="tst_anagram Coverage Results" MODIFIED="1605063503422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$Phone.coverage" NAME="Phone Coverage Results" MODIFIED="1603703293259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$find_first_link.coverage" NAME="find_first_link Coverage Results" MODIFIED="1603636887567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$time_after_time.coverage" NAME="time_after_time Coverage Results" MODIFIED="1603637050484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$wordLengths.coverage" NAME="wordLengths Coverage Results" MODIFIED="1604235565297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$pytest_in_anagrams_py.coverage" NAME="pytest in anagrams.py Coverage Results" MODIFIED="1604725847977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$global_mile.coverage" NAME="global_mile Coverage Results" MODIFIED="1604871950935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$koch_snowflake.coverage" NAME="koch_snowflake Coverage Results" MODIFIED="1603325435860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$pytest_in_Phone_py.coverage" NAME="pytest in Phone.py Coverage Results" MODIFIED="1603703434750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$day_8_lecture.coverage" NAME="day_8_lecture Coverage Results" MODIFIED="1604102526017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day07" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$pytest_for_collatz_test_collatz.coverage" NAME="pytest for collatz.test_collatz Coverage Results" MODIFIED="1604298417378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$anagrams.coverage" NAME="anagrams Coverage Results" MODIFIED="1604235705315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$find_url.coverage" NAME="find_url Coverage Results" MODIFIED="1603323761403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$beautiful_Jam.coverage" NAME="beautiful_Jam Coverage Results" MODIFIED="1604761795950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$Koch.coverage" NAME="Koch Coverage Results" MODIFIED="1603325221203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$next_month.coverage" NAME="next_month Coverage Results" MODIFIED="1603703445136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$collatz.coverage" NAME="collatz Coverage Results" MODIFIED="1604298627407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day09" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$scratch_27.coverage" NAME="scratch_27 Coverage Results" MODIFIED="1604328811561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </project>
