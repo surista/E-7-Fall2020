@@ -131,8 +131,7 @@ def read_fasta_file(filename: str) -> str:
     for i in range(1, seq_length + 1):
         for j in range(i + 1, seq_length + 1):
 
-            if (seq[i - 1] == seq[j - 1] and
-                    seq_table[i - 1][j - 1] < (j - i)):
+            if (seq[i - 1] == seq[j - 1] and seq_table[i - 1][j - 1] < (j - i)):
                 seq_table[i][j] = seq_table[i - 1][j - 1] + 1
 
                 if (seq_table[i][j] > sol_length):
