@@ -20,14 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7996fc22-12a0-44a4-ae93-10b09ef04aa0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day12/.ipynb_checkpoints/Homework12 (5)-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day12/.ipynb_checkpoints/Homework12 (6)-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Homework12_Surista-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Homework12_Surista-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day12/Homework12 (1).ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day12/fasta.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day12/parkers_double_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day12/parkers_double_table.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day12/rolling_hash.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day12/rolling_hash.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Homework12_Surista.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Homework12_Surista.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +55,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day12" />
+    <property name="last_opened_file_path" value="$USER_HOME$/snap/exercism/5/exercism" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -71,29 +65,7 @@
       <recent name="G:\My Study Courses\E-7-Fall2020\Day10" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.parkers_double_table">
-    <configuration name="binary_fasta" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="E-7-Fall2020" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day12" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day12/binary_fasta.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.scratch_37">
     <configuration name="binary_new_fasta" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="E-7-Fall2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,6 +132,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="scratch_37" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="E-7-Fall2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_37.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="sort_search_fasta" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="E-7-Fall2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.scratch_37" />
         <item itemvalue="Python.parkers_double_table" />
         <item itemvalue="Python.rolling_hash" />
         <item itemvalue="Python.binary_new_fasta" />
         <item itemvalue="Python.sort_search_fasta" />
-        <item itemvalue="Python.binary_fasta" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +209,10 @@
       <workItem from="1605796619662" duration="10998000" />
       <workItem from="1605860992079" duration="14753000" />
       <workItem from="1605883708388" duration="2982000" />
-      <workItem from="1605887962953" duration="2191000" />
+      <workItem from="1605887962953" duration="2859000" />
+      <workItem from="1605932522468" duration="15000" />
+      <workItem from="1605939969912" duration="3025000" />
+      <workItem from="1605952940276" duration="34000" />
     </task>
     <servers />
   </component>
@@ -246,34 +243,34 @@
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
     <state x="5549" y="582" width="473" height="1036" key="EnvironmentVariablesDialog/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605104241620" />
-    <state x="5512" y="798" key="FileChooserDialogImpl" timestamp="1605837968292">
+    <state x="5512" y="798" key="FileChooserDialogImpl" timestamp="1605952972581">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state x="5512" y="798" key="FileChooserDialogImpl/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605837968292" />
-    <state width="3710" height="621" key="GridCell.Tab.0.bottom" timestamp="1605916736585">
+    <state x="5512" y="798" key="FileChooserDialogImpl/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605952972581" />
+    <state width="3710" height="621" key="GridCell.Tab.0.bottom" timestamp="1605944133865">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
     <state width="3017" height="472" key="GridCell.Tab.0.bottom/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1605074800269" />
     <state width="3782" height="621" key="GridCell.Tab.0.bottom/3840.0.3840.2160/0.27.3840.2133@0.27.3840.2133" timestamp="1605794713057" />
-    <state width="3710" height="621" key="GridCell.Tab.0.bottom/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605916736585" />
-    <state width="3710" height="621" key="GridCell.Tab.0.center" timestamp="1605916736585">
+    <state width="3710" height="621" key="GridCell.Tab.0.bottom/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605944133865" />
+    <state width="3710" height="621" key="GridCell.Tab.0.center" timestamp="1605944133865">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
     <state width="3017" height="472" key="GridCell.Tab.0.center/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1605074800269" />
     <state width="3782" height="621" key="GridCell.Tab.0.center/3840.0.3840.2160/0.27.3840.2133@0.27.3840.2133" timestamp="1605794713057" />
-    <state width="3710" height="621" key="GridCell.Tab.0.center/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605916736585" />
-    <state width="3710" height="621" key="GridCell.Tab.0.left" timestamp="1605916736585">
+    <state width="3710" height="621" key="GridCell.Tab.0.center/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605944133865" />
+    <state width="3710" height="621" key="GridCell.Tab.0.left" timestamp="1605944133865">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
     <state width="3017" height="472" key="GridCell.Tab.0.left/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1605074800269" />
     <state width="3782" height="621" key="GridCell.Tab.0.left/3840.0.3840.2160/0.27.3840.2133@0.27.3840.2133" timestamp="1605794713057" />
-    <state width="3710" height="621" key="GridCell.Tab.0.left/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605916736585" />
-    <state width="3710" height="621" key="GridCell.Tab.0.right" timestamp="1605916736585">
+    <state width="3710" height="621" key="GridCell.Tab.0.left/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605944133865" />
+    <state width="3710" height="621" key="GridCell.Tab.0.right" timestamp="1605944133865">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
     <state width="3017" height="472" key="GridCell.Tab.0.right/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1605074800269" />
     <state width="3782" height="621" key="GridCell.Tab.0.right/3840.0.3840.2160/0.27.3840.2133@0.27.3840.2133" timestamp="1605794713057" />
-    <state width="3710" height="621" key="GridCell.Tab.0.right/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605916736585" />
+    <state width="3710" height="621" key="GridCell.Tab.0.right/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605944133865" />
     <state x="4917" y="534" key="MultipleFileMergeDialog" timestamp="1604730013374">
       <screen x="3840" y="0" width="3072" height="1688" />
     </state>
@@ -292,6 +289,7 @@
     <state x="5330" y="522" width="929" height="1034" key="search.everywhere.popup/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605703658388" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$scratch_37.coverage" NAME="scratch_37 Coverage Results" MODIFIED="1605941851996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1603290822911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$odds_n_evens.coverage" NAME="odds_n_evens Coverage Results" MODIFIED="1603180154740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$find_y.coverage" NAME="find_y Coverage Results" MODIFIED="1603329398854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
