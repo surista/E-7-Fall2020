@@ -30,14 +30,15 @@ def longest_repeat(text):
         else:
             temp = [(item[1][0], item[1][1], len(item[0])) for item in del_list]
             sol = (temp[0][0], temp[0][1], temp[0][2])
+            print(sol)
         count += 1
 
 
-text = read_fasta_file("pKLMF-FX.fasta")
-print(longest_repeat(text))
-
-text = read_fasta_file("pACYC184.fasta")
-print(longest_repeat(text))
+# text = read_fasta_file("pKLMF-FX.fasta")
+# print(longest_repeat(text))
+#
+# text = read_fasta_file("pACYC184.fasta")
+# print(longest_repeat(text))
 
 text = read_fasta_file("ecoli.fasta")
 print(longest_repeat(text))

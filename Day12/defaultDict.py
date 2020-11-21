@@ -82,28 +82,7 @@ def longest_repeat(text):
             sol = [(item[1][0], item[1][1], item[0]) for item in del_list]
         count += 1
 
-    # d = defaultdict(list)
-    # for i in range(len(text)):
-    #     d[text[i:i + 10]].append(i)
-    #
-    # del_list = [(item, d[item]) for item in d if len(item) > 1 and len(d[item]) > 1]
-    # if len(del_list) == 0:
-    #     return sol
-    # else:
-    #     sol = [(item[1][0], item[1][1], item[0]) for item in del_list]
-    # print(sol)
-    #
-    # d = defaultdict(list)
-    # for i in range(len(text)):
-    #     d[text[i:i + 11]].append(i)
-    #
-    # del_list = [(item, d[item]) for item in d if len(item) > 1 and len(d[item]) > 1]
-    # if len(del_list) == 0:
-    #     return sol
-    # else:
-    #     sol = [(item[1][0], item[1][1], item[0]) for item in del_list]
-    # print(sol)
-
+   
 gen = longest_repeat(text)
 print(gen)
 
