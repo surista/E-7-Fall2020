@@ -33,11 +33,11 @@ def longest_repeat(text):
 
     return sol
 
-text = read_fasta_file("pACYC184_short.fasta")
-print(longest_repeat(text))
-
-# text = read_fasta_file("pACYC184.fasta")
+# text = read_fasta_file("pACYC184_short.fasta")
 # print(longest_repeat(text))
+
+text = read_fasta_file("pACYC184.fasta")
+print(longest_repeat(text))
 
 # text = read_fasta_file("ecoli.fasta")
 # print(longest_repeat(text))

@@ -8,12 +8,20 @@ Module documentation goes here
 
 import os
 
-def find_files_gen(path, filename, filesize=35000):
+
+def find_files_gen(path, filename, filesize=0):
+    "yields specific files larger than given size (default size is 0)"
+
     matches = []
-    for root,dir, files in os.walk(path):
+    for root, dir, files in os.walk(path):
         for f in files:
             path = os.path.join(root, f)
             size = os.stat(path).st_size
             if filename in f and size > filesize:
-                matches.append((root+"/"+f, size))
-    return matches
+                yield (root, f)
+
+gen = find_files_gen('..', '.py')
+
+
+for path, filename in gen:
+    print(path, filename)
