@@ -10,10 +10,6 @@ import urllib.request
 import string
 import re
 
-def find_links(website):
-    "Return a list of the links on this page: Use only urllib and Regular Expressions"
-    pass
-
 
 def find_first_link(url):
     """Returns the first URL and link txt on page"""
@@ -22,9 +18,8 @@ def find_first_link(url):
     with urllib.request.urlopen(url) as f:
         text = f.read().decode('utf-8')
 
-    links = re.findall('<a.*/a>', text)
-
-    return links
+    re_links = re.findall(r'<a\s+.*/a>', text)
+    return re_links
 
 website = 'https://www.extension.harvard.edu'
 sol = find_first_link(website)

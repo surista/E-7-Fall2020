@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7996fc22-12a0-44a4-ae93-10b09ef04aa0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day12/.ipynb_checkpoints/Homework12_Surista-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day12/.ipynb_checkpoints/Homework12_Surista-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day12/Homework12_Surista (1).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day12/Homework12_Surista.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day12/Homework12_Surista.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="7996fc22-12a0-44a4-ae93-10b09ef04aa0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,29 +61,7 @@
       <recent name="G:\My Study Courses\E-7-Fall2020\Day10" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.file_name">
-    <configuration name="binary_new_fasta" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="E-7-Fall2020" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day12" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day12/binary_new_fasta.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.parkers_double_table">
     <configuration name="file_name" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="E-7-Fall2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,6 +98,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day12/parkers_double_table.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="re_urls" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="E-7-Fall2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day12" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day12/re_urls.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.file_name" />
         <item itemvalue="Python.parkers_double_table" />
+        <item itemvalue="Python.re_urls" />
+        <item itemvalue="Python.file_name" />
         <item itemvalue="Python.scratch_37" />
         <item itemvalue="Python.rolling_hash" />
-        <item itemvalue="Python.binary_new_fasta" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +219,7 @@
       <workItem from="1606374326448" duration="313000" />
       <workItem from="1606344282792" duration="261000" />
       <workItem from="1606344558578" duration="120000" />
-      <workItem from="1606393224543" duration="595000" />
+      <workItem from="1606393224543" duration="737000" />
     </task>
     <servers />
   </component>
@@ -296,9 +290,10 @@
       <screen x="3840" y="0" width="3072" height="1688" />
     </state>
     <state x="4917" y="534" key="MultipleFileMergeDialog/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1604730013374" />
-    <state x="5198" y="641" width="1196" height="912" key="SettingsEditor" timestamp="1605872638015">
-      <screen x="3840" y="0" width="3840" height="2160" />
+    <state x="4926" y="501" width="1139" height="882" key="SettingsEditor" timestamp="1606394168122">
+      <screen x="3840" y="0" width="3072" height="1688" />
     </state>
+    <state x="4926" y="501" width="1139" height="882" key="SettingsEditor/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1606394168122" />
     <state x="5198" y="641" width="1196" height="912" key="SettingsEditor/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605872638015" />
     <state x="4869" y="506" key="Vcs.Push.Dialog.v2" timestamp="1604729982222">
       <screen x="3840" y="0" width="3072" height="1688" />

@@ -10,8 +10,6 @@ import os
 
 
 def find_files_gen(path, filename, filesize=0):
-    "yields specific files larger than given size (default size is 0)"
-
     matches = []
     for root, dir, files in os.walk(path):
         for f in files:
@@ -20,8 +18,10 @@ def find_files_gen(path, filename, filesize=0):
             if filename in f and size > filesize:
                 yield (root, f)
 
-gen = find_files_gen('..', '.py')
 
-
-for path, filename in gen:
-    print(path, filename)
+gen = find_files_gen('..', 'py')
+print(next(gen))
+print(next(gen))
+print(next(gen))
+print(next(gen))
+print(next(gen))
