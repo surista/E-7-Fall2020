@@ -20,9 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7996fc22-12a0-44a4-ae93-10b09ef04aa0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/E-7-Fall202015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_control.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Homework12_Surista-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Homework12_Surista-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework12_Surista.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Homework12_Surista.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day12/Homework12_Surista.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day12/Homework12_Surista.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day12/parkers_double_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day12/parkers_double_table.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +57,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$USER_HOME$/snap/exercism/5/exercism" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -65,7 +67,7 @@
       <recent name="G:\My Study Courses\E-7-Fall2020\Day10" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.scratch_37">
+  <component name="RunManager" selected="Python.parkers_double_table">
     <configuration name="binary_new_fasta" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="E-7-Fall2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,8 +180,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.scratch_37" />
         <item itemvalue="Python.parkers_double_table" />
+        <item itemvalue="Python.scratch_37" />
         <item itemvalue="Python.rolling_hash" />
         <item itemvalue="Python.binary_new_fasta" />
         <item itemvalue="Python.sort_search_fasta" />
@@ -213,6 +215,11 @@
       <workItem from="1605932522468" duration="15000" />
       <workItem from="1605939969912" duration="3025000" />
       <workItem from="1605952940276" duration="34000" />
+      <workItem from="1605970187362" duration="292000" />
+      <workItem from="1606198648408" duration="113000" />
+      <workItem from="1606226882349" duration="3661000" />
+      <workItem from="1606293209051" duration="1481000" />
+      <workItem from="1606349220625" duration="599000" />
     </task>
     <servers />
   </component>
@@ -235,42 +242,46 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="5221" y="875" width="1130" height="451" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605796831428">
+    <state x="5128" y="128" width="1326" height="1937" key="#Python" timestamp="1606198734409">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state x="5221" y="875" width="1130" height="451" key="#com.intellij.fileTypes.FileTypeChooser/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605796831428" />
+    <state x="5128" y="128" width="1326" height="1937" key="#Python/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1606198734409" />
+    <state x="5221" y="875" width="1130" height="451" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605970197342">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5221" y="875" width="1130" height="451" key="#com.intellij.fileTypes.FileTypeChooser/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605970197342" />
     <state x="5549" y="582" width="473" height="1036" key="EnvironmentVariablesDialog" timestamp="1605104241620">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
     <state x="5549" y="582" width="473" height="1036" key="EnvironmentVariablesDialog/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605104241620" />
-    <state x="5512" y="798" key="FileChooserDialogImpl" timestamp="1605952972581">
+    <state x="5512" y="798" key="FileChooserDialogImpl" timestamp="1606294368800">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state x="5512" y="798" key="FileChooserDialogImpl/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605952972581" />
-    <state width="3710" height="621" key="GridCell.Tab.0.bottom" timestamp="1605944133865">
+    <state x="5512" y="798" key="FileChooserDialogImpl/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1606294368800" />
+    <state width="3710" height="621" key="GridCell.Tab.0.bottom" timestamp="1606294689823">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
     <state width="3017" height="472" key="GridCell.Tab.0.bottom/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1605074800269" />
     <state width="3782" height="621" key="GridCell.Tab.0.bottom/3840.0.3840.2160/0.27.3840.2133@0.27.3840.2133" timestamp="1605794713057" />
-    <state width="3710" height="621" key="GridCell.Tab.0.bottom/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605944133865" />
-    <state width="3710" height="621" key="GridCell.Tab.0.center" timestamp="1605944133865">
+    <state width="3710" height="621" key="GridCell.Tab.0.bottom/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1606294689823" />
+    <state width="3710" height="621" key="GridCell.Tab.0.center" timestamp="1606294689823">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
     <state width="3017" height="472" key="GridCell.Tab.0.center/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1605074800269" />
     <state width="3782" height="621" key="GridCell.Tab.0.center/3840.0.3840.2160/0.27.3840.2133@0.27.3840.2133" timestamp="1605794713057" />
-    <state width="3710" height="621" key="GridCell.Tab.0.center/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605944133865" />
-    <state width="3710" height="621" key="GridCell.Tab.0.left" timestamp="1605944133865">
+    <state width="3710" height="621" key="GridCell.Tab.0.center/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1606294689823" />
+    <state width="3710" height="621" key="GridCell.Tab.0.left" timestamp="1606294689823">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
     <state width="3017" height="472" key="GridCell.Tab.0.left/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1605074800269" />
     <state width="3782" height="621" key="GridCell.Tab.0.left/3840.0.3840.2160/0.27.3840.2133@0.27.3840.2133" timestamp="1605794713057" />
-    <state width="3710" height="621" key="GridCell.Tab.0.left/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605944133865" />
-    <state width="3710" height="621" key="GridCell.Tab.0.right" timestamp="1605944133865">
+    <state width="3710" height="621" key="GridCell.Tab.0.left/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1606294689823" />
+    <state width="3710" height="621" key="GridCell.Tab.0.right" timestamp="1606294689823">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
     <state width="3017" height="472" key="GridCell.Tab.0.right/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1605074800269" />
     <state width="3782" height="621" key="GridCell.Tab.0.right/3840.0.3840.2160/0.27.3840.2133@0.27.3840.2133" timestamp="1605794713057" />
-    <state width="3710" height="621" key="GridCell.Tab.0.right/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605944133865" />
+    <state width="3710" height="621" key="GridCell.Tab.0.right/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1606294689823" />
     <state x="4917" y="534" key="MultipleFileMergeDialog" timestamp="1604730013374">
       <screen x="3840" y="0" width="3072" height="1688" />
     </state>
@@ -283,10 +294,10 @@
       <screen x="3840" y="0" width="3072" height="1688" />
     </state>
     <state x="4869" y="506" key="Vcs.Push.Dialog.v2/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1604729982222" />
-    <state x="5330" y="522" width="929" height="1034" key="search.everywhere.popup" timestamp="1605703658388">
+    <state x="5330" y="522" width="929" height="1034" key="search.everywhere.popup" timestamp="1606198688088">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state x="5330" y="522" width="929" height="1034" key="search.everywhere.popup/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1605703658388" />
+    <state x="5330" y="522" width="929" height="1034" key="search.everywhere.popup/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1606198688088" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/E_7_Fall2020$scratch_37.coverage" NAME="scratch_37 Coverage Results" MODIFIED="1605941851996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
@@ -339,6 +350,6 @@
     <SUITE FILE_PATH="coverage/E_7_Fall2020$scratch_30.coverage" NAME="scratch_30 Coverage Results" MODIFIED="1605143219573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$Koch.coverage" NAME="Koch Coverage Results" MODIFIED="1603325221203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$scratch_36.coverage" NAME="scratch_36 Coverage Results" MODIFIED="1605708819193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
-    <SUITE FILE_PATH="coverage/E_7_Fall2020$parkers_double_table.coverage" NAME="parkers_double_table Coverage Results" MODIFIED="1605888062534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day12" />
+    <SUITE FILE_PATH="coverage/E_7_Fall2020$parkers_double_table.coverage" NAME="parkers_double_table Coverage Results" MODIFIED="1606294548509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day12" />
   </component>
 </project>
