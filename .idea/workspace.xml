@@ -19,7 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7996fc22-12a0-44a4-ae93-10b09ef04aa0" name="Default Changelist" comment="" />
+    <list default="true" id="7996fc22-12a0-44a4-ae93-10b09ef04aa0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/E-7-Fall2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/E-7-Fall2020.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day12/file_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day12/file_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day12/parkers_double_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day12/parkers_double_table.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day12/re_urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day12/re_urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,7 +226,7 @@
       <workItem from="1606374326448" duration="313000" />
       <workItem from="1606344282792" duration="261000" />
       <workItem from="1606344558578" duration="120000" />
-      <workItem from="1606393224543" duration="737000" />
+      <workItem from="1606393224543" duration="1613000" />
     </task>
     <servers />
   </component>
@@ -258,32 +265,32 @@
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
     <state x="5512" y="798" key="FileChooserDialogImpl/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1606294368800" />
-    <state width="3017" height="470" key="GridCell.Tab.0.bottom" timestamp="1606374641033">
-      <screen x="0" y="0" width="3072" height="1688" />
+    <state width="3017" height="470" key="GridCell.Tab.0.bottom" timestamp="1606394380434">
+      <screen x="3840" y="0" width="3072" height="1688" />
     </state>
     <state width="3017" height="470" key="GridCell.Tab.0.bottom/3840.0.3072.1688/0.0.3072.1688@0.0.3072.1688" timestamp="1606374641033" />
-    <state width="3017" height="472" key="GridCell.Tab.0.bottom/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1605074800269" />
+    <state width="3017" height="470" key="GridCell.Tab.0.bottom/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1606394380434" />
     <state width="3782" height="621" key="GridCell.Tab.0.bottom/3840.0.3840.2160/0.27.3840.2133@0.27.3840.2133" timestamp="1605794713057" />
     <state width="3710" height="621" key="GridCell.Tab.0.bottom/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1606294689823" />
-    <state width="3017" height="470" key="GridCell.Tab.0.center" timestamp="1606374641033">
-      <screen x="0" y="0" width="3072" height="1688" />
+    <state width="3017" height="470" key="GridCell.Tab.0.center" timestamp="1606394380434">
+      <screen x="3840" y="0" width="3072" height="1688" />
     </state>
     <state width="3017" height="470" key="GridCell.Tab.0.center/3840.0.3072.1688/0.0.3072.1688@0.0.3072.1688" timestamp="1606374641033" />
-    <state width="3017" height="472" key="GridCell.Tab.0.center/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1605074800269" />
+    <state width="3017" height="470" key="GridCell.Tab.0.center/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1606394380434" />
     <state width="3782" height="621" key="GridCell.Tab.0.center/3840.0.3840.2160/0.27.3840.2133@0.27.3840.2133" timestamp="1605794713057" />
     <state width="3710" height="621" key="GridCell.Tab.0.center/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1606294689823" />
-    <state width="3017" height="470" key="GridCell.Tab.0.left" timestamp="1606374641033">
-      <screen x="0" y="0" width="3072" height="1688" />
+    <state width="3017" height="470" key="GridCell.Tab.0.left" timestamp="1606394380434">
+      <screen x="3840" y="0" width="3072" height="1688" />
     </state>
     <state width="3017" height="470" key="GridCell.Tab.0.left/3840.0.3072.1688/0.0.3072.1688@0.0.3072.1688" timestamp="1606374641033" />
-    <state width="3017" height="472" key="GridCell.Tab.0.left/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1605074800269" />
+    <state width="3017" height="470" key="GridCell.Tab.0.left/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1606394380434" />
     <state width="3782" height="621" key="GridCell.Tab.0.left/3840.0.3840.2160/0.27.3840.2133@0.27.3840.2133" timestamp="1605794713057" />
     <state width="3710" height="621" key="GridCell.Tab.0.left/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1606294689823" />
-    <state width="3017" height="470" key="GridCell.Tab.0.right" timestamp="1606374641033">
-      <screen x="0" y="0" width="3072" height="1688" />
+    <state width="3017" height="470" key="GridCell.Tab.0.right" timestamp="1606394380434">
+      <screen x="3840" y="0" width="3072" height="1688" />
     </state>
     <state width="3017" height="470" key="GridCell.Tab.0.right/3840.0.3072.1688/0.0.3072.1688@0.0.3072.1688" timestamp="1606374641033" />
-    <state width="3017" height="472" key="GridCell.Tab.0.right/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1605074800269" />
+    <state width="3017" height="470" key="GridCell.Tab.0.right/3840.0.3072.1688/0.0.3072.1688@3840.0.3072.1688" timestamp="1606394380434" />
     <state width="3782" height="621" key="GridCell.Tab.0.right/3840.0.3840.2160/0.27.3840.2133@0.27.3840.2133" timestamp="1605794713057" />
     <state width="3710" height="621" key="GridCell.Tab.0.right/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1606294689823" />
     <state x="4917" y="534" key="MultipleFileMergeDialog" timestamp="1604730013374">
@@ -306,6 +313,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/E_7_Fall2020$re_urls.coverage" NAME="re_urls Coverage Results" MODIFIED="1605625450947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/Homework12_Surista_ipynb$re_urls.coverage" NAME="re_urls Coverage Results" MODIFIED="1606394271308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day12" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$people.coverage" NAME="people Coverage Results" MODIFIED="1605142910126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$scratch_27.coverage" NAME="scratch_27 Coverage Results" MODIFIED="1604328811561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$scratch_30.coverage" NAME="scratch_30 Coverage Results" MODIFIED="1605143219573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
@@ -345,7 +353,7 @@
     <SUITE FILE_PATH="coverage/E_7_Fall2020$scratch_37.coverage" NAME="scratch_37 Coverage Results" MODIFIED="1605941851996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$anagrams.coverage" NAME="anagrams Coverage Results" MODIFIED="1604235705315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day10" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$dna_complement.coverage" NAME="dna_complement Coverage Results" MODIFIED="1603121221910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
-    <SUITE FILE_PATH="coverage/Homework12_Surista_ipynb$file_name.coverage" NAME="file_name Coverage Results" MODIFIED="1606374622453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day12" />
+    <SUITE FILE_PATH="coverage/Homework12_Surista_ipynb$file_name.coverage" NAME="file_name Coverage Results" MODIFIED="1606394217321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day12" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$scratch_25.coverage" NAME="scratch_25 Coverage Results" MODIFIED="1604102511268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$odds_n_evens.coverage" NAME="odds_n_evens Coverage Results" MODIFIED="1603180154740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$sudoku.coverage" NAME="sudoku Coverage Results" MODIFIED="1604816180523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day11" />
@@ -357,6 +365,6 @@
     <SUITE FILE_PATH="coverage/E_7_Fall2020$scratch_36.coverage" NAME="scratch_36 Coverage Results" MODIFIED="1605708819193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$find_y.coverage" NAME="find_y Coverage Results" MODIFIED="1603329398854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day08" />
     <SUITE FILE_PATH="coverage/E_7_Fall2020$fasta_new.coverage" NAME="fasta_new Coverage Results" MODIFIED="1605871706827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day12" />
-    <SUITE FILE_PATH="coverage/Homework12_Surista_ipynb$parkers_double_table.coverage" NAME="parkers_double_table Coverage Results" MODIFIED="1606374369206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day12" />
+    <SUITE FILE_PATH="coverage/Homework12_Surista_ipynb$parkers_double_table.coverage" NAME="parkers_double_table Coverage Results" MODIFIED="1606394371613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day12" />
   </component>
 </project>
