@@ -20,11 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7996fc22-12a0-44a4-ae93-10b09ef04aa0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day12/.ipynb_checkpoints/Homework12_Surista-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day12/.ipynb_checkpoints/Homework12_Surista-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day12/Homework12_Surista (1).pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Day12/Homework12_Surista.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day12/Homework12_Surista.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day12/file_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day12/file_name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day12/parkers_double_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day12/parkers_double_table.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,6 +223,9 @@
       <workItem from="1606337312736" duration="16000" />
       <workItem from="1606337346611" duration="49000" />
       <workItem from="1606374326448" duration="313000" />
+      <workItem from="1606344282792" duration="261000" />
+      <workItem from="1606344558578" duration="120000" />
+      <workItem from="1606393224543" duration="595000" />
     </task>
     <servers />
   </component>
