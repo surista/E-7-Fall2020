@@ -17,23 +17,24 @@ def read_fasta_file(filename: str) -> str:
 
 def longest_repeat(text, cntr=2):
     sol = (0, 0, 0)
-    while True:
+    del_list = ['01', '01', '01']
 
+    while len(del_list) != 0:
         d = defaultdict(list)
+
         for i in range(len(text)):
             d[text[i:i + cntr]].append(i)
+
         del_list = [(item, d[item]) for item in d if len(d[item]) > 1]
 
+        # if list is empty, we're done
         if len(del_list) == 0:
             return sol
         else:
-            temp = [(item[1][0], item[1][1], len(item[0])) for item in del_list]
-            sol = (temp[0][0], temp[0][1], temp[0][2])
+            sol = (del_list[0][1][0], (del_list[0][1][1]), len(del_list[0][0]))
         cntr += 1
 
     return sol
 
-
-
-text = read_fasta_file("pKLMF-FX.fasta.fasta")
+text = read_fasta_file("pKLMF-FX.fasta")
 print(longest_repeat(text))

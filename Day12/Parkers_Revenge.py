@@ -29,6 +29,6 @@ def longest_repeat(txt):
     return (first, last, mxLen)
 
 
-text = read_fasta_file("pACYC184_short.fasta")
+text = read_fasta_file("pACYC184.fasta")
 print(longest_repeat(text))
 
