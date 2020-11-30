@@ -16,7 +16,6 @@ def longest_prefix(suf1, suf2, mx=None):
 
 def longest_repeat(txt):
     lst = sorted([text[i:] for i in range(len(text))])
-
     mxLen = 0
     mx_string = ""
     for x in range(len(lst) - 1):
@@ -29,6 +28,7 @@ def longest_repeat(txt):
     return (first, last, mxLen)
 
 
-text = read_fasta_file("pACYC184.fasta")
+# text = "BANANA"
+text = read_fasta_file("ecoli.fasta")
 print(longest_repeat(text))
 

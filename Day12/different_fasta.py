@@ -35,5 +35,4 @@ def longest_repeat(text):
 
     return sol
 
-text = read_fasta_file("ecoli.fasta")
-print(longest_repeat(text))
+text = read_fasta_file("Human22.fasta")
